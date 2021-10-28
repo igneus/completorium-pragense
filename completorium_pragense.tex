@@ -1,10 +1,11 @@
-\documentclass[a4paper, 12pt]{article}
+\documentclass[a5paper, 12pt]{book}
 \usepackage[latin]{babel}
 \usepackage[left=2cm, right=2cm, top=2cm, bottom=2cm]{geometry}
 
 \usepackage{fontspec}
 \usepackage[hidelinks]{hyperref}
 \usepackage{etoolbox}
+\usepackage[show]{ed}
 
 % for gregorio
 \usepackage{luatextra}
@@ -23,6 +24,11 @@
 
 \newcommand{\rubrica}[1]{\textit{#1}}
 \newcommand{\incipit}[1]{\textup{#1}}
+\newcommand{\hymnus}[1]{%
+  \phantomsection
+  \label{hym:#1}
+  \input{hymni/#1}}
+\newcommand{\quickref}[1]{\textsuperscript{\textup{(\pageref{#1})}}}
 
 
 
@@ -34,18 +40,23 @@
 
 \maketitle
 
-\section{Psalmi}
+\chapter{Psalmi}
 
-\section{Hymni}
+\chapter{Hymnarius}
 
-\section{Preces}
+\hymnus{conditor}
 
-\section{In Adventu Domini}
+\chapter{Preces}
+\label{preces}
 
-\rubrica{Hymnus \incipit{Conditor alme siderum} in completorio
+\chapter{In Adventu Domini}
+
+\rubrica{Hymnus \incipit{Conditor alme siderum}\quickref{hym:conditor}
+  in completorio
   nunquam mutatur, nisi in Conceptione sanctae Mariae.}\footcite[83r]{bp1502}
 
 \rubrica{Ad completorium psalmi consueti, quos sequitur \incipit{alleluia.}}
+\edissue{Not sure what exactly the alleluia means. An antiphon super psalmos?}
 
 \rubrica{Capitulum}
 Patientes estote et confirmate corda vestra:
@@ -53,7 +64,7 @@ quoniam adventus Domini appropinquabit.
 Deo.
 
 \rubrica{Hymnus}
-Conditor alme.
+Conditor alme.\quickref{hym:conditor}
 
 \rubrica{V.}
 Emitte agnum Domine, dominatorem terrae.
@@ -62,7 +73,8 @@ De petra deserti ad montem filiae Sion.
 \rubrica{Ad Nunc dimittis antiphona}
 Qui venturus est veniet et non tardabit. Iam non erit timor in finibus nostris.
 
-\rubrica{Preces solitae dicuntur versum adiungendo de Adventu, scilicet istum.}
+\rubrica{Preces solitae\quickref{preces}
+  dicuntur versum adiungendo de Adventu, scilicet istum.}
 Veni Domine et noli tardare. Relaxa facinora plebis tuae.
 
 \rubrica{Oratio}

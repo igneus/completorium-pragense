@@ -1,4 +1,4 @@
-deps = Dir["*.tex"] + Dir["*.*bx"] + Dir['*.bib']
+deps = Dir['*.tex'] + Dir["*/**/*.tex"] + Dir["*.*bx"] + Dir['*.bib']
 
 main = Dir['*.tex'].first # only one expected
 main_noext = main.sub '.tex', ''
