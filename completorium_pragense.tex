@@ -22,13 +22,32 @@
 
 \bibliography{biblio}
 
+% rubric
 \newcommand{\rubrica}[1]{\textit{#1}}
+
+% text incipit inside a rubric
 \newcommand{\incipit}[1]{\textup{#1}}
+
+% insert full text of a hymn
 \newcommand{\hymnus}[1]{%
   \phantomsection
   \label{hym:#1}
   \input{hymni/#1}}
-\newcommand{\quickref}[1]{\textsuperscript{\textup{(\pageref{#1})}}}
+
+% insert chant notation
+\newcommand{\cantus}[1]{%
+  \phantomsection
+  \label{can:#1}
+  \input{cantus/#1.gtex}}
+
+% inline page reference to full text or notation elsewhere
+\newcommand{\quickref}[1]{\quickrefFormat{\pageref{#1}}}
+\newcommand{\missingref}{\quickrefFormat{?}}
+\newcommand{\quickrefFormat}[1]{\textsuperscript{\textup{(#1)}}}
+
+% text not literally reproducing the source,
+% but supplemented by the editor
+\newcommand{\editorial}[1]{[#1]}
 
 
 
@@ -41,6 +60,7 @@
 \maketitle
 
 \chapter{Psalmi}
+\label{psalmi}
 
 \chapter{Hymnarius}
 
@@ -54,14 +74,16 @@
 \rubrica{Hymnus \incipit{Conditor alme siderum}\quickref{hym:conditor}
   in completorio
   nunquam mutatur, nisi in Conceptione sanctae Mariae.}\footcite[83r]{bp1502}
+\vspace{3mm}
 
-\rubrica{Ad completorium psalmi consueti, quos sequitur \incipit{alleluia.}}
-\edissue{Not sure what exactly the alleluia means. An antiphon super psalmos?}
+\rubrica{Ad completorium psalmi consueti,\quickref{psalmi}
+  quos sequitur \incipit{alleluia.}}
+\edissue{Not sure what exactly the alleluia means. An antiphon super psalmos? But XIV A 19 doesn't notate it.}
 
 \rubrica{Capitulum}
 Patientes estote et confirmate corda vestra:
 quoniam adventus Domini appropinquabit.
-Deo.
+Deo \editorial{gratias}.
 
 \rubrica{Hymnus}
 Conditor alme.\quickref{hym:conditor}
@@ -71,7 +93,7 @@ Emitte agnum Domine, dominatorem terrae.
 De petra deserti ad montem filiae Sion.
 
 \rubrica{Ad Nunc dimittis antiphona}
-Qui venturus est veniet et non tardabit. Iam non erit timor in finibus nostris.
+Qui venturus est veniet et non tardabit. Iam non erit timor in finibus nostris.\quickref{can:adventus_quiventurus}
 
 \rubrica{Preces solitae\quickref{preces}
   dicuntur versum adiungendo de Adventu, scilicet istum.}
@@ -91,6 +113,11 @@ Qui tecum.
 \rubrica{Una istarum orationum dicatur quae placet et non plus.
   Hic ordo completorii non mutatur per totum Adventum
   nisi in Conceptione sanctae Mariae.}\footcite[83r-83v]{bp1502}
+
+\section*{Cantus}
+
+\cantus{adventus_quiventurus}
+\edissue{source does not notate the differentia, find it elsewhere}
 
 \printbibliography
 
