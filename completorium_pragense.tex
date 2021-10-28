@@ -1,0 +1,85 @@
+\documentclass[a4paper, 12pt]{article}
+\usepackage[latin]{babel}
+\usepackage[left=2cm, right=2cm, top=2cm, bottom=2cm]{geometry}
+
+\usepackage{fontspec}
+\usepackage[hidelinks]{hyperref}
+\usepackage{etoolbox}
+
+% for gregorio
+\usepackage{luatextra}
+\usepackage{graphicx}
+\usepackage{gregoriotex}
+
+\usepackage[
+  backend=biber,
+  style=iso-authoryear,
+  sortlocale=cs_CZ,
+  maxnames=3,
+  firstinits=true,
+]{biblatex}
+
+\bibliography{biblio}
+
+\newcommand{\rubrica}[1]{\textit{#1}}
+\newcommand{\incipit}[1]{\textup{#1}}
+
+
+
+
+
+\title{Completorium secundum Rubricam pragensem}
+
+\begin{document}
+
+\maketitle
+
+\section{Psalmi}
+
+\section{Hymni}
+
+\section{Preces}
+
+\section{In Adventu Domini}
+
+\rubrica{Hymnus \incipit{Conditor alme siderum} in completorio
+  nunquam mutatur, nisi in Conceptione sanctae Mariae.}\footcite[83r]{bp1502}
+
+\rubrica{Ad completorium psalmi consueti, quos sequitur \incipit{alleluia.}}
+
+\rubrica{Capitulum}
+Patientes estote et confirmate corda vestra:
+quoniam adventus Domini appropinquabit.
+Deo.
+
+\rubrica{Hymnus}
+Conditor alme.
+
+\rubrica{V.}
+Emitte agnum Domine, dominatorem terrae.
+De petra deserti ad montem filiae Sion.
+
+\rubrica{Ad Nunc dimittis antiphona}
+Qui venturus est veniet et non tardabit. Iam non erit timor in finibus nostris.
+
+\rubrica{Preces solitae dicuntur versum adiungendo de Adventu, scilicet istum.}
+Veni Domine et noli tardare. Relaxa facinora plebis tuae.
+
+\rubrica{Oratio}
+Fac nos quaesumus Domine Deus noster pervigiles atque solicitos adventum
+Christi Filii tui exspectare: ut dum venerit pulsans,
+non dormientes in peccatis, sed vigilantes in suis laudibus inveniat
+exsultantes. Qui tecum.
+
+\rubrica{Alia oratio}
+Prope esto Domine omnibus exspectantibus te in veritate:
+ut in adventu Domini nostri Iesu Christi placitis tibi actibus praesentemur.
+Qui tecum.
+
+\rubrica{Una istarum orationum dicatur quae placet et non plus.
+  Hic ordo completorii non mutatur per totum Adventum
+  nisi in Conceptione sanctae Mariae.}\footcite[83r-83v]{bp1502}
+
+\printbibliography
+
+\end{document}
