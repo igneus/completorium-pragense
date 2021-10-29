@@ -1,0 +1,36 @@
+\header
+title: In die sancto Nativitatis Christi
+
+\score
+id: verbumcaro
+manuscript: CZ-Pn XV A 10, 47v
+annotation: Ant.
+annotation: VI F
+c3
+d f h g f gh h
+h h ij kvJIHG h hih f f
+e f f f f e d ef f
+f gh h gf f (z0 c4) ij j gh iHGF g ghg f f ::
+h h f gh g f ::
+Ver -- bum ca -- ro fac -- tum est,
+et ha -- bi -- ta -- vit in no -- bis,
+et vi -- di -- mus glo -- ri -- am e -- ius,
+glo -- ri -- am qua -- si ! U -- ni -- ge -- ni -- ti a Pa -- tre.
+E u o u a e.
+
+\score
+id: magnum
+manuscript: CZ-Pn XV A 10, 47v
+annotation: Ad Nunc.
+annotation: V a
+c3
+h h f g h g f g h f h
+hg g f h g f e e f f e
+h f h i k k h h h gfg h
+h h g fg h e de f e d ::
+h h i g h f ::
+Mag -- num no -- men Do -- mi -- ni E -- ma -- nu -- el,
+quod an -- nun -- ti -- a -- tum est per Ga -- bri -- el,
+ho -- di -- e ap -- pa -- ru -- it in I -- sra -- el.
+Per Ma -- ri -- am Vir -- gi -- nem mag -- nus Rex. % bp1502: ... Virginem natus est rex
+E u o u a e.
