@@ -1,6 +1,6 @@
 deps = Dir['*.tex'] + Dir["*/**/*.tex"] + Dir["*.*bx"] + Dir['*.bib'] + Dir['*/**/*.gly']
 
-main = Dir['*.tex'].first # only one expected
+main = 'completorium_pragense.tex'
 main_noext = main.sub '.tex', ''
 main_pdf = main.sub '.tex', '.pdf'
 
