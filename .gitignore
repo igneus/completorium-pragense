@@ -1,4 +1,21 @@
+# Emacs backups
 *~
+
+# Results
 *.pdf
+
+# gly/gregorio byproducts
 *.gabc
 *.gtex
+cantus/*.tex
+
+# LaTeX byproducts
+*.aux
+*.gaux
+*.log
+*.out
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*.toc
