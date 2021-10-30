@@ -1,0 +1,20 @@
+\header
+title: In Circumcisione Domini
+
+\score
+id: glorificamus
+% I didn't manage to find any digitized manuscript
+% of the Prague use - as a temporary solution
+% let's take a Slovak one.
+manuscript: SK-Bra IIb EC Lad.4, 2r % http://cantus.sk/image/13555
+annotation: Ad Nunc.
+annotation: IV E
+c4
+d e f g f f h gf g fe d
+f d e f gf gh gf f f
+f f fe d d f f gh gf e ::
+h g h j g e ::
+Glo -- ri -- fi -- ca -- mus te De -- i Ge -- ni -- trix,
+qui -- a ex te na -- tus est Chris -- tus,
+sal -- va om -- nes qui te glo -- ri -- fi -- cant.
+E u o u a e.
