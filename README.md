@@ -1,4 +1,4 @@
-# Completorium secundum Rubricam pragensem
+# Completorium secundum rubricam pragensem
 
 LaTeX sources for a booklet of chanted Compline according to the
 medieval diocesan use of Prague.
