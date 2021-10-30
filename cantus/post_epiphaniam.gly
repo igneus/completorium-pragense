@@ -1,0 +1,40 @@
+\header
+title: Post Octavam Epiphaniae
+
+\score
+id: salva1
+manuscript: CZ-Pn XV A 10, 81r
+annotation: Ad Nunc.
+annotation: III g
+c3
+e fh h hi h hg f g f e
+h h h i h f h h
+h g h i hg f g h
+c4
+h g h h gf gh g e e ::
+j j hj h h g ::
+Sal -- va nos, Do -- mi -- ne, vi -- gi -- lan -- tes,
+cu -- sto -- di nos dor -- mi -- en -- tes,
+ut vi -- gi -- le -- mus in Chris -- to
+et re -- qui -- es -- ca -- mus in pa -- ce.
+E u o u a e.
+
+\score
+id: salva2
+manuscript: CZ-Pn XV A 10, 81r
+annotation: Ad Nunc.
+annotation: V a
+c3
+fgFE df hi/h i/jkj ih h hvGF ef gvFE dd
+fe d f!gh hj!kl lK/jk ih fg h
+h f gh hvGF gh/h hdh/ivHGFD/e!fgf ed d
+f d fh ih fh h
+c2 (h/ij/jvIH/ivHGF c3 hdh/ivHGFD/e!fgf) ed d ::
+h h i g h f ::
+Sal -- va nos, Do -- mi -- ne, vi -- gi -- lan -- tes,
+cu -- sto -- di nos dor -- mi -- en -- tes,
+ut vi -- gi -- le -- mus in Chris -- to
+et re -- qui -- es -- ca -- mus
+in
+pa -- ce.
+E u o u a e.
