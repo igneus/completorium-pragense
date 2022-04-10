@@ -1,0 +1,19 @@
+\header
+title: Hymni
+
+\score
+id: telucis_karlstejn
+manuscript: CZ-Pn XVI A 18, 55v
+annotation: VIII?
+annotation:
+% TODO: liquescences ignored - what (if anything) to do with them?
+c4 g hihi j ih g h fef g
+gi k j ihi k j ih g
+g i ef g ede f ed c
+g hihi j ih % end missing
+% TODO find the missing end elsewhere, or compose it
+%   and add an explanatory note confessing that
+Te lu -- cis an -- te ter -- mi -- num
+re -- rum cre -- a -- tor pos -- ci -- mus,
+ut so -- li -- ta cle -- men -- ti -- a
+sis prae -- sul ad cu -- sto -- di -- am.
