@@ -7,7 +7,7 @@ main_pdf = main.sub '.tex', '.pdf'
 file main_pdf => deps do |t|
   Dir['*/**/*.gly'].each do |f|
     Dir.chdir(File.dirname(f)) do
-      sh 'gly', 'preview', File.basename(f)
+      sh 'gly', 'gabc', File.basename(f)
     end
   end
 
