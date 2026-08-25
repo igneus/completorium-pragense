@@ -4,8 +4,7 @@ title: Hymni
 \score
 id: telucis_karlstejn
 manuscript: CZ-Pn XVI A 18, 55v
-annotation: VIII?
-annotation:
+mode: 8?
 % TODO: liquescences ignored - what (if anything) to do with them?
 c4 g hihi j ih g h fef g
 gi k j ihi k j ih g
@@ -21,7 +20,7 @@ sis prae -- sul ad cu -- sto -- di -- am.
 \score
 id: conditoralme
 manuscript: CZ-Pst DA III 17, f. 17r
-annotation: IV
+mode: 4
 f3 g e g i i j h i
 i j h i hg f h g
 i h f h g h f e
@@ -34,7 +33,7 @@ ex -- au -- di pre -- ces sup -- pli -- cum.
 \score
 id: cordenatus
 manuscript: CZ-Pst DA III 17, f. 18v
-annotation: III
+mode: 3
 c4 % editorial, source has no clef
 j j i g h h g e
 g g e c g f g h
