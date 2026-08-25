@@ -11,6 +11,12 @@ file main_pdf => deps do |t|
     end
   end
 
+  Dir['*/**/*.gabc'].each do |f|
+    Dir.chdir(File.dirname(f)) do
+      sh 'gregorio', File.basename(f)
+    end
+  end
+
   sh 'lualatex', main_noext
   sh 'biber', main_noext
   sh 'lualatex', main_noext
