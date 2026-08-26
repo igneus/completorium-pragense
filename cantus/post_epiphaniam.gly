@@ -2,6 +2,22 @@
 title: Post Octavam Epiphaniae
 
 \score
+id: versiculus
+manuscript: CZ-Pu VI G 3a, 102r
+manuscript-notice: manuscriptum monasterii S. Georgii in castro Pragensi
+annotation: Vers.
+f3 h h h h h h h
+h h h h
+h h hvGFE/fhf ::
+Cus -- to -- di nos Do -- mi -- ne
+ut pu -- pil -- lam
+o -- cu -- li.
+h h h h h h h h h
+h h h hvGFE/fhf ::
+Sub um -- bra al -- la -- rum tu -- a -- rum
+pro -- te -- ge nos.
+
+\score
 id: salva1
 manuscript: CZ-Pn XV A 10, 81r
 annotation: Ad Nunc.
