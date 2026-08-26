@@ -4,6 +4,7 @@
 
 \usepackage{fontspec}
 \usepackage[hidelinks]{hyperref}
+\usepackage[toc]{appendix}
 \usepackage{etoolbox}
 \usepackage[show]{ed}
 \usepackage{csquotes}
@@ -64,26 +65,16 @@
 
 
 
-\title{Completorium secundum rubricam pragensem}
+\title{Completoria per anni circulum\\secundum veram rubricam\\Ecclesiae Pragensis}
 
 \begin{document}
 
 \maketitle
 
-\chapter{Psalmi}
-\label{psalmi}
-
-\edissue{add psalm texts}
-
 \chapter{Hymnarius}
 
 \hymnus{conditor}
 \hymnus{corde}
-
-\hymnus{salvator_mundi}
-\edissue{notation}
-
-\hymnus{te_lucis}
 
 \input{partes/preces}
 
@@ -93,10 +84,13 @@
 \input{partes/circumcisio}
 \input{partes/allatio}
 \input{partes/epiphania}
-\input{partes/post_epiphaniam}
 
-\input{partes/domina}
-\input{partes/sabbato}
+\input{partes/commune}
+
+\begin{appendices}
+  \input{partes/domina}
+  \input{partes/sabbato}
+\end{appendices}
 
 \printbibliography
 
