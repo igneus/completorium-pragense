@@ -22,6 +22,13 @@
 
 \bibliography{biblio}
 
+% fix missing biblatex translation strings:
+\DeclareLanguageMapping{latin}{english} % latin is unsupported by biblatex
+\DefineBibliographyStrings{latin}{%
+  library = {bibliotheca},
+  page    = {f.}, % this is somewhat dirty, but so far all sources we cite are foliated, not paginated
+}
+
 % automatically set content of gabc header 'manuscript' as \grecommentary
 \gresetheadercapture{manuscript}{grecommentary}{string}
 \gresetheadercapture{user-notes}{edissue}{string}
