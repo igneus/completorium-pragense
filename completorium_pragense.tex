@@ -16,16 +16,15 @@
 
 \usepackage[
   backend=biber,
-  style=iso-authoryear,
-  sortlocale=cs_CZ,
-  maxnames=3,
-  firstinits=true,
+  citestyle=authortitle,
+  bibstyle=reading
 ]{biblatex}
 
 \bibliography{biblio}
 
 % automatically set content of gabc header 'manuscript' as \grecommentary
 \gresetheadercapture{manuscript}{grecommentary}{string}
+% use uppercase Roman numerals whenever Gregorio produces mode annotations on its own
 \gresetmodenumbersystem{roman-majuscule}
 
 
