@@ -5,6 +5,7 @@ title: Post Octavam Epiphaniae
 id: versiculus
 manuscript: CZ-Pu VI G 3a, 102r
 manuscript-notice: manuscriptum monasterii S. Georgii in castro Pragensi
+user-notes: try to find a versicle tone in diocesan sources
 annotation: Vers.
 f3 h h h h h h h
 h h h h
@@ -41,6 +42,7 @@ id: salva2
 manuscript: CZ-Pu XIV A 19, 52r; cf. CZ-Pn XV A 10, 81r
 annotation: Ad Nunc.
 annotation: V a
+user-notes: read XIV.A.19 once more with special attention to bemol, look around in the manuscript to see how it handles bemol (XV.A.10 has none)
 c3
 gxfgFE (df/hi) h i/jkj ih h hvGF ef gvFE d
 fe d fh % XV.A.10: fgh

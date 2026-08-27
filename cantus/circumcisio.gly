@@ -3,10 +3,8 @@ title: In Circumcisione Domini
 
 \score
 id: glorificamus
-% I didn't manage to find any digitized manuscript
-% of the Prague use - as a temporary solution
-% let's take a Slovak one.
 manuscript: SK-Bra IIb EC Lad.4, 2r % http://cantus.sk/image/13555
+user-notes: find a better source. The only notated Czech diocesan source I'm aware of so far is P VI/1, 211v - check it.
 annotation: Ad Nunc.
 annotation: IV E
 c4
