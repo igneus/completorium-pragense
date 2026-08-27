@@ -5,6 +5,8 @@ title: Hymni
 id: telucis_karlstejn
 manuscript: CZ-Pn XVI A 18, 55v
 mode: 8?
+annotation: Hymnus
+annotation: VIII
 % TODO: liquescences ignored - what (if anything) to do with them?
 c4 g hihi j ih g h fef g
 gi k j ihi k j ih g
@@ -21,6 +23,8 @@ sis prae -- sul ad cu -- sto -- di -- am.
 id: conditoralme
 manuscript: CZ-Pst DA III 17, f. 17r
 mode: 4
+annotation: Hymnus
+annotation: IV
 f3 g e g i i j h i
 i j h i hg f h g
 i h f h g h f e
@@ -34,6 +38,8 @@ ex -- au -- di pre -- ces sup -- pli -- cum.
 id: cordenatus
 manuscript: CZ-Pst DA III 17, f. 18v
 mode: 3
+annotation: Hymnus
+annotation: III
 c4 % editorial, source has no clef
 j j i g h h g e
 g g e c g f g h
@@ -54,6 +60,8 @@ sae -- cu -- lo -- rum sae -- cu -- lis.
 id: cordenatus_specialnik
 manuscript: CZ-HKm Hr-7, f. 292r
 mode: 3
+annotation: Hymnus
+annotation: III
 c4
 % Source notation contains a few instances of stemmed notes
 % with halved rhythmical value. For now ignored in the transcription.

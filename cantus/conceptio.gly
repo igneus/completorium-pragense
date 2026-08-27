@@ -4,6 +4,7 @@ title: In Conceptione sanctae Mariae Virginis
 \score
 id: cumiucunditate
 manuscript: cf. CZ-Pn XII A 21, 154r
+annotation: Ant.
 annotation: VII c
 c3 i g i j i i
 Cum iu -- cun -- di -- ta -- te
@@ -24,6 +25,7 @@ i i j i h gh ::
 \score
 id: quandoconcepta
 manuscript: cf. CZ-Pn XII A 21, 154v
+annotation: Ad Nunc.
 annotation: III g
 c4 f ed
 Quan -- do
