@@ -19,7 +19,7 @@ pro -- te -- ge nos.
 
 \score
 id: salva1
-manuscript: CZ-Pn XV A 10, 81r
+manuscript: CZ-Pu XIV A 19, 52r; CZ-Pn XV A 10, 81r
 annotation: Ad Nunc.
 annotation: III g
 c3
@@ -28,29 +28,32 @@ h h h i h f h h
 h g h i hg f g h
 c4
 h g h h gf gh g e e ::
-j j hj h h g ::
 Sal -- va nos, Do -- mi -- ne, vi -- gi -- lan -- tes,
 cu -- sto -- di nos dor -- mi -- en -- tes,
 ut vi -- gi -- le -- mus in Chri -- sto
 et re -- qui -- es -- ca -- mus in pa -- ce.
+
+j j j hj h g :: % XV.A.10: j j hj h h g
 E u o u a e.
 
 \score
 id: salva2
-manuscript: CZ-Pn XV A 10, 81r
+manuscript: CZ-Pu XIV A 19, 52r; cf. CZ-Pn XV A 10, 81r
 annotation: Ad Nunc.
 annotation: V a
 c3
-fgFE df hi/h i/jkj ih h hvGF ef gvFE dd
-fe d f!gh hj!kl lK/jk ih fg h
+gxfgFE (df/hi) h i/jkj ih h hvGF ef gvFE d
+fe d fh % XV.A.10: fgh
+hj!kl lK/jk ih fg h
 h f gh hvGF gh/h hdh/ivHGFD/e!fgf ed d
 f d fh ih fh h
-c2 (h/ij/jvIH/ivHGF c3 hdh/ivHGFD/e!fgf) ed d ::
-h h i g h f ::
+z0c2 (h/ij/jvIH/ivHGF z0c3 hdh/ivHGFD/e!fgf) ed d ::
 Sal -- va nos, Do -- mi -- ne, vi -- gi -- lan -- tes,
-cu -- sto -- di nos dor -- mi -- en -- tes,
+cu -- sto -- di
+nos dor -- mi -- en -- tes,
 ut vi -- gi -- le -- mus in Chri -- sto
 et re -- qui -- es -- ca -- mus
-in
-pa -- ce.
+in pa -- ce.
+
+h h i g h f ::
 E u o u a e.
