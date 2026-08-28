@@ -7,7 +7,12 @@ main_pdf = main.sub '.tex', '.pdf'
 file main_pdf => deps do |t|
   Dir['*/**/*.gly'].each do |f|
     Dir.chdir(File.dirname(f)) do
-      sh 'gly', 'gabc', File.basename(f)
+      # make sure the build doesn't rely on zombie files
+      %w(gabc gtex)
+        .collect {|suff| File.basename(f).sub('.gly', "*.#{suff}") }
+        .yield_self {|patterns| rm_f patterns }
+
+      sh 'gly', 'gabc', '--suffix-always', File.basename(f)
     end
   end
 
