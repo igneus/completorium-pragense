@@ -1,0 +1,49 @@
+\header
+title: In Nativitate sanctae Mariae
+
+\score
+id: cumiucunditate
+manuscript: CZ-Pn XII A 21, 154r
+annotation: Ant.
+annotation: VII c
+user-notes: once again check against the source
+c3 i g i j i i
+Cum iu -- cun -- di -- ta -- te
+
+i i i ij i
+na -- ti -- vi -- ta -- tem
+
+i i i i gh i f e e
+h h h h h h h g fh g
+f e f f h h e e ::
+san -- ctae Ma -- ri -- ae ce -- le -- bre -- mus
+ut ip -- sa pro no -- bis in -- ter -- ce -- dat
+ad Do -- mi -- num Ie -- sum Chri -- stum.
+
+i i j i h gh ::
+<eu>E u o u a e.</eu>
+
+\score
+id: quandonata
+manuscript: CZ-Pn XII A 21, 154v
+annotation: Ad Nunc.
+annotation: III g
+c4 f ed
+Quan -- do
+
+g hj j
+na -- ta est
+
+jk j ji h ji hg g
+g h i j hvGF g gh e e
+g!hj j jkj ih
+j j ih g
+h h j gf ef hf gf e e ::
+Vir -- go sa -- cra -- tis -- si -- ma
+tunc il -- lu -- mi -- na -- tus est mun -- dus
+stirps be -- a -- ta
+ra -- dix san -- cta
+et be -- ne -- dic -- tus fruc -- tus e -- ius.
+
+j j j hj h hg ::
+<eu>E u o u a e.</eu>
