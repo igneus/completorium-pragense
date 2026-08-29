@@ -1,0 +1,44 @@
+\header
+title: Omnium sanctorum
+
+\score
+id: salvator
+annotation: Ad Nunc
+annotation: I g
+manuscript: CZ-Pu XIV C 20, 24v; CZ-Pu XII C 3, 29v
+manuscript-notice: manuscriptum cursus monastici
+
+c4 dc cf e ddf dc f gh hvGF gh ixhih
+Sal -- va -- tor mun -- di sal -- va nos o -- mnes
+
+h g fe fgFE % XII.C.3: fe fgf
+d cd d d f d dc f gh ixhih
+FGhg fe fgf d d
+sanc -- ta De -- i
+Ge -- ni -- trix Vir -- go sem -- per Ma -- ri -- a
+o -- ra pro no -- bis
+
+dh!j h g h ji
+jk h h h h g fe fgf
+d cd d d f df d c
+f FGhg f fe fgf d cd d
+pre -- ci -- bus quo -- que
+sanc -- to -- rum a -- po -- sto -- lo -- rum
+mar -- ty -- rum et con -- fes -- so -- rum
+at -- que sanc -- ta -- rum vir -- gi -- num
+
+dh!j hg h j j gh h
+h g fe fgf d cd d
+dfe df d c
+sup -- pli -- ci -- ter pe -- ti -- mus
+ut a ma -- lis o -- mni -- bus
+e -- ru -- a -- mur
+f gh hvGF g fe dc
+g c df dc
+FGhg fe dc d fe d d ::
+bo -- nis -- que o -- mni -- bus
+nunc et sem -- per
+per -- fru -- i me -- re -- a -- mur.
+
+h h hg gf gh g ::
+E u o u a e.

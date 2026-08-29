@@ -1,0 +1,16 @@
+\header
+title: In Exaltatione sanctae Crucis
+
+\score
+id: signum
+manuscript: CZ-HKm Hr-7, f. 299r, 293r % "canitur sicut Fit porta Christi pervia"
+annotation: Hymnus
+annotation: VIII
+c4 g d g g ghg e f g
+h!iji h g h gf e f g
+g gji jk k klk j i hig
+g d g g ghg e f g ::
+Sig -- num Cru -- cis mi -- ra -- bi -- le
+o -- lim per or -- bem re -- lu -- cens
+in qua pe -- pen -- dit in -- no -- cens
+Chris -- tus Re -- dem -- ptor o -- mni -- um.

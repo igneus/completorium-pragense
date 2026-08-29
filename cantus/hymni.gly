@@ -2,6 +2,21 @@
 title: Hymni
 
 \score
+id: telucis
+manuscript: CZ-Pst DA III 17, 16v
+mode: 2
+annotation: Hymnus
+annotation: II
+f3 f h h h h hi h g
+f g h g f g f e
+f f f f g g f e
+h h h g f g f ef ::
+Te lu -- cis an -- te ter -- mi -- num
+re -- rum Cre -- a -- tor pos -- ci -- mus
+ut so -- li -- ta cle -- men -- ti -- a
+sis prae -- sul ad cu -- sto -- di -- am.
+
+\score
 id: telucis_karlstejn
 manuscript: CZ-Pn XVI A 18, 55v
 mode: 8?
@@ -13,7 +28,7 @@ gi k j ihi k j ih g
 g i ef g ede f ed c
 g hihi j ih % end missing
 Te lu -- cis an -- te ter -- mi -- num
-re -- rum cre -- a -- tor pos -- ci -- mus,
+re -- rum Cre -- a -- tor pos -- ci -- mus
 ut so -- li -- ta cle -- men -- ti -- a
 sis prae -- sul ad cu -- sto -- di -- am.
 
@@ -29,7 +44,7 @@ i h f h g h f e
 e g h i hg f h g ::
 Con -- di -- tor al -- me si -- de -- rum
 ae -- ter -- na lux cre -- den -- ti -- um
-Chris -- te, Re -- dem -- ptor om -- ni -- um
+Chris -- te Re -- dem -- ptor om -- ni -- um
 ex -- au -- di pre -- ces sup -- pli -- cum.
 
 \score
