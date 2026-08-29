@@ -1,24 +1,21 @@
 # Completorium secundum rubricam pragensem
 
-LaTeX sources for a booklet of chanted Compline according to the
+(Lua)LaTeX sources of a booklet of chanted Compline according to the
 medieval diocesan use of Prague.
 
-Literal quotations of texts and rubrics from 16th c. early prints
-of the Prague breviary (always citing the exact source)
-are, if necessary, supplemented with explanatory notices
-(always marked as such) and by chant notation
-collected from manuscript sources (will be cited, but currently
-are not, in case of interest please consult annotations in
-transcription source files, directory `cantus/`).
+Main body of the book reproduces the Compline section
+of *Diurnale horarum canonicarum secundum veram Rubricam archiepiscopatus Ecclesie Pragensis*
+printed 1523 in Nürnberg.
+Unlike many others, the 1523 edition treats Compline systematically and
+provides many chant and prayer texts (in other sources usually indicated
+only by incipits) in full, which is of great advantage for a modern editor.
+Textual variants, alternative rules and additional details
+from other print and manuscript sources are provided in footnotes.
+Wherever possible, chants are provided with notation sourced
+from manuscript sources of the Prague diocesan use, or, if not available,
+from manuscripts of other liturgical traditions of the same region
+(e.g. Czech Benedictine houses).
 
-Goal is to make relatively easily available at least a partial experience
+Goal of the edition is to make accessible at least a partial experience
 of the medieval Divine Office, while not watering down peculiarities
-(language, organization) of the original breviary.
-
-It should be noted that the booklet doesn't reproduce (often very
-lengthy and complex) calendar rules. Anyone interested in assembling
-a full calendar "as the Prague Metropolitan Chapter would have used it
-if it followed its early 16th c. calendar up to this day"
-still has to dive deep in the sources.
-We don't expect most of the booklet's users to be interested in this kind
-of hardcore medievalism.
+(language, organization) of the original medieval breviary.
