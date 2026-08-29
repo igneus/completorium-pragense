@@ -8,6 +8,7 @@
 \usepackage{etoolbox}
 \usepackage[show]{ed}
 \usepackage{csquotes}
+\usepackage{lettrine}
 
 % for gregorio
 \usepackage{luatextra}
@@ -21,6 +22,8 @@
 ]{biblatex}
 
 \bibliography{biblio}
+
+\setlength{\parindent}{12pt}
 
 % fix missing biblatex translation strings:
 \DeclareLanguageMapping{latin}{english} % latin is unsupported by biblatex
@@ -45,10 +48,24 @@
 \newcommand{\formulary}[1]{\chapter{#1}}
 
 % rubric
-\newcommand{\rubrica}[1]{\textit{#1}}
+\newcommand{\rubrica}[1]{%
+  \noindent%
+  \textit{\small{#1}}}
 
 % text incipit inside a rubric
 \newcommand{\incipit}[1]{\textup{#1}}
+
+% rubric introducing a structural element
+\newcommand{\elem}[1]{%
+  \vspace{2mm}%
+  \noindent%
+  \textit{#1}%
+  \hspace{10pt}}
+\newcommand{\lelem}[1]{%
+  \vspace{2mm}%
+  \noindent%
+  \textit{\footnotesize{#1}}%
+  \nopagebreak}
 
 % insert full text of a hymn
 \newcommand{\hymnus}[1]{%
@@ -81,6 +98,7 @@
 \begin{document}
 
 \maketitle
+\cleardoublepage
 
 \input{partes/adventus}
 \input{partes/conceptio}
@@ -94,6 +112,8 @@
 
 \input{partes/nativitas_mariae}
 \input{partes/praesentatio}
+% I would understand that Marian feasts are grouped and then comes the rest,
+% but what's the ordering logic of the feasts below?
 \input{partes/omnium_sanctorum}
 \input{partes/exaltatio}
 \input{partes/dedicatio}
@@ -104,7 +124,7 @@
   \input{partes/sabbato}
 \end{appendices}
 
-\printbibliography
+\printbibliography[title=Fontes]
 
 \tableofcontents
 

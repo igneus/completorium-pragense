@@ -7,7 +7,7 @@ main_pdf = main.sub '.tex', '.pdf'
 desc "build the main product (#{main_pdf})"
 task :default => [main_pdf]
 
-file main_pdf => deps + [:gtex, :psalms] do |t|
+file main_pdf => deps + [:gtex, :psalms, :hymns] do |t|
   sh 'lualatex', main_noext
   sh 'biber', main_noext
   sh 'lualatex', main_noext
@@ -37,15 +37,21 @@ end
 
 psalms_src = Dir['psalmi/*.txt']
 psalms_target = psalms_src.collect {|f| f.sub('.txt', '.tex') }
-
 task :psalms => psalms_target
 
 psalms_target.zip(psalms_src).each do |(target, source)|
-  file target => [source, __FILE__] do |t|
-    cp source, target
-    ruby '-p', '-i',
-         '-e', '$_ += "\n" unless $_.strip.end_with? ":"',
-         target
+  file target => [source, 'scripts/psalm.rb', 'scripts/initial.rb'] do |t|
+    sh "ruby scripts/psalm.rb #{source} | ruby scripts/initial.rb > #{target}"
+  end
+end
+
+hymns_src = Dir['hymni/*.txt']
+hymns_target = hymns_src.collect {|f| f.sub('.txt', '.tex') }
+task :hymns => hymns_target
+
+hymns_target.zip(hymns_src).each do |(target, source)|
+  file target => [source, 'scripts/initial.rb'] do |t|
+    sh "ruby scripts/initial.rb #{source} > #{target}"
   end
 end
 

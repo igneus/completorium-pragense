@@ -11,6 +11,7 @@ cantus/*.tex
 
 # other generated files
 psalmi/*.tex
+hymni/*.tex
 
 # LaTeX byproducts
 *.aux
