@@ -9,6 +9,9 @@
 *.gtex
 cantus/*.tex
 
+# other generated files
+psalmi/*.tex
+
 # LaTeX byproducts
 *.aux
 *.gaux

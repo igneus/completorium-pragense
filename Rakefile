@@ -7,7 +7,7 @@ main_pdf = main.sub '.tex', '.pdf'
 desc "build the main product (#{main_pdf})"
 task :default => [main_pdf]
 
-file main_pdf => deps + [:gtex] do |t|
+file main_pdf => deps + [:gtex, :psalms] do |t|
   sh 'lualatex', main_noext
   sh 'biber', main_noext
   sh 'lualatex', main_noext
@@ -32,6 +32,20 @@ task :gtex => [:gabc] do
     Dir.chdir(File.dirname(f)) do
       sh 'gregorio', File.basename(f)
     end
+  end
+end
+
+psalms_src = Dir['psalmi/*.txt']
+psalms_target = psalms_src.collect {|f| f.sub('.txt', '.tex') }
+
+task :psalms => psalms_target
+
+psalms_target.zip(psalms_src).each do |(target, source)|
+  file target => [source, __FILE__] do |t|
+    cp source, target
+    ruby '-p', '-i',
+         '-e', '$_ += "\n" unless $_.strip.end_with? ":"',
+         target
   end
 end
 
