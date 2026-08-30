@@ -19,3 +19,19 @@ from manuscripts of other liturgical traditions of the same region
 Goal of the edition is to make accessible at least a partial experience
 of the medieval Divine Office, while not watering down peculiarities
 (language, organization) of the original medieval breviary.
+
+## Prerequisites
+
+* Ruby (any version from 2.0 up should work fine)
+  * Rake (version shouldn't matter here, either)
+  * [gly][gly] - current development version is required
+* LaTeX ecosystem - developed on TeX Live 2025
+  * Gregorio
+  * LuaLaTeX
+  * some (well established and pretty much standard) LaTeX packages
+
+## Building
+
+`$ rake`
+
+[gly]: https://github.com/igneus/gly
