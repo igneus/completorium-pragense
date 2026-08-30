@@ -22,11 +22,14 @@ manuscript: CZ-Pn XVI A 18, 55v
 mode: 8?
 annotation: Hymnus
 annotation: VIII
-user-notes: find elsewhere (or compose) missing ending of the tune
+user-notes: try to verify (editorially supplied) tune of the last verse from another source
 c4 g hihi j ih g h fef g
 gi k j ihi k j ih gz
 g i ef g ede f ed c
-g hihi j ih % end missing
+g hihi j ih
+% end missing in the source, provided based on analogy with other hymn tunes
+% (last verse matching the first)
+            g h fef g ::
 Te lu -- cis an -- te ter -- mi -- num
 re -- rum Cre -- a -- tor pos -- ci -- mus
 ut so -- li -- ta cle -- men -- ti -- a
