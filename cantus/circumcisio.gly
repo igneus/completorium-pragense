@@ -3,16 +3,33 @@ title: In Circumcisione Domini
 
 \score
 id: glorificamus
+manuscript: CZ-Pu XIV B 13, 44r
+user-notes: This source is monastic. Find a better source. The only notated Czech diocesan source I'm aware of so far is P VI/1, 211v - check it.
+annotation: Ad Nunc.
+annotation: IV E
+c4
+d e f g f e h gf g fe d
+fvED d e f gf gh gf e e
+f e f d d f f gh gf e ::
+Glo -- ri -- fi -- ca -- mus te De -- i Ge -- ni -- trix
+qui -- a ex te na -- tus est Chris -- tus
+sal -- va om -- nes qui te glo -- ri -- fi -- cant.
+
+h g h j g ef :: % strange
+<eu>E u o u a e.</eu>
+
+\score
+id: glorificamus2
 manuscript: SK-Bra IIb EC Lad.4, 2r % http://cantus.sk/image/13555
-user-notes: find a better source. The only notated Czech diocesan source I'm aware of so far is P VI/1, 211v - check it.
 annotation: Ad Nunc.
 annotation: IV E
 c4
 d e f g f f h gf g fe d
 f d e f gf gh gf f f
 f f fe d d f f gh gf e ::
-h g h j g e ::
-Glo -- ri -- fi -- ca -- mus te De -- i Ge -- ni -- trix,
-qui -- a ex te na -- tus est Chris -- tus,
+Glo -- ri -- fi -- ca -- mus te De -- i Ge -- ni -- trix
+qui -- a ex te na -- tus est Chris -- tus
 sal -- va om -- nes qui te glo -- ri -- fi -- cant.
+
+h g h j g e ::
 E u o u a e.
