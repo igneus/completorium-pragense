@@ -1,25 +1,26 @@
-Fit porta Christi pervia\quickref{can:conceptio_fitporta}
-reserta plena gratia.
-Transitque Rex et permanet
+Fit porta \editorial{Christi pervia:\quickref{can:conceptio_fitporta}
+reserta plena gratia:
+transitque Rex et permanet:
 clausa ut fuit per saecula.
 
-Genus superni luminis
-processit alvo Virginis.
-Sponsus Redemptor Conditor
+Genus superni luminis:
+processit alvo Virginis:
+Sponsus Redemptor Conditor:
 suae gigas ecclesiae.
 
-Honor matris et gaudium
-immensa spes credentium.
-Per acra mortis pocula
+Honor matris et gaudium:
+immensa spes credentium:
+per acra mortis pocula:
 resolvit nostra crimina.
 
-Maria mater gratiae.
-mater misericordiae
-tu nos ab hoste protege.
+Maria Mater gratiae:
+mater misericordiae:
+tu nos ab hoste protege:
 in hora mortis suscipe.
 
-Gloria tibi Domine
-qui natus es de Virgine
-cum Patre et Sancto Spiritu
+Gloria tibi Domine:
+qui natus es de Virgine:
+cum Patre et Sancto Spiritu:
 in sempiterna saecula.
-Amen.\footnote{\cite[69r]{bp1502}: in hymnario designatus ut hymnus ad completorium Annuntiationis}
+Amen.}\footcite[De BMV, f. 5v]{diu1523}
+% bp1502 69r: in hymnario designatus ut hymnus ad completorium Annuntiationis
