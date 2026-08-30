@@ -1,4 +1,4 @@
-Hoc in templo summe Deus:\edissue{notation}
+Hoc in templo summe Deus:\quickref{can:dedicatio_hoc_in_templo}
 exoratus adveni:
 et clementi bonitate:
 precum vota suscipe:

@@ -2,6 +2,25 @@
 title: In Dedicatione ecclesiae
 
 \score
+id: hoc_in_templo
+manuscript: CZ-Pst DA III 17, 303r
+% the Compline hymn consists of two final strophes of Urbs beata Ierusalem
+annotation: Hymnus
+annotation: IV
+c4 e ede f evDC d dfd efe e
+fd f!gh h ghg fe de e
+e gh h hg hj g hvGFE e
+fd f!gh h ghg fe de e
+e ede f evDC d dfd efe e
+fd f!gh h ghg fe de e ::
+Hoc in tem -- plo sum -- me De -- us
+ex -- o -- ra -- tus ad -- ve -- ni
+et cle -- men -- ti bo -- ni -- ta -- te
+pre -- cum vo -- ta sus -- ci -- pe
+lar -- gam be -- ne -- dic -- ti -- o -- nem
+hic in -- fun -- de iu -- gi -- ter.
+
+\score
 id: pax
 manuscript: CZ-Pn XII A 21, 116v
 annotation: Ant.
