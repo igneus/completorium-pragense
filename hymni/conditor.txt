@@ -1,35 +1,35 @@
-Conditor alme siderum\quickref{can:hymni_conditoralme}
-aeterna lux credentium
-Christe, Redemptor omnium
+Conditor alme siderum:\quickref{can:hymni_conditoralme}
+aeterna lux credentium:
+Christe, Redemptor omnium:
 exaudi preces supplicum.
 
-Qui condolens interitu
-mortis perire saeculum
-salvasti mundum languidum
+Qui condolens interitu:
+mortis perire saeculum:
+salvasti mundum languidum:
 donans reis remedium.
 
-Vergente mundi vespere
-uti sponsus de thalamo
-egressus honestissima
+Vergente mundi vespere:
+uti sponsus de thalamo:
+egressus honestissima:
 virginis matris clausula.
 
-Cuius forti potentiae
+Cuius forti potentiae:
 genu curvantur omnia
 caelestia terrestria
 fatentur nutu subdita.
 
-Occasum sol custodiens
+Occasum sol custodiens:
 luna pallorem retinens
-candor in astris relucens
+candor in astris relucens:
 certos observat limites.
 
-Te deprecamur \editorial{hagie}
-venture iudex saeculi
-conserva nos in tempore
+Te deprecamur \editorial{hagie}:
+venture iudex saeculi:
+conserva nos in tempore:
 hostis a telo perfidi.
 
-Laus honor virtus gloria
-Deo Patri cum Filio
-sancto simul Paraclito
+Laus honor virtus gloria:
+Deo Patri cum Filio:
+sancto simul Paracleto:
 in sempiterna saecula.
 Amen.
