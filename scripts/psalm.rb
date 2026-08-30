@@ -1,5 +1,9 @@
+def strip_tex_comment s
+  s.sub(/\s*%.*$/, '')
+end
+
 ARGF.each_line($/, chomp: true) do |l|
   print l
-  print "\\\\" unless l.end_with? ':'
+  puts unless strip_tex_comment(l).end_with? ':'
   puts
 end

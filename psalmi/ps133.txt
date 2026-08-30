@@ -1,6 +1,6 @@
 Ecce nunc benedicite Domino:
 omnes servi Domini.
-Qui statis in domo Domini:
+\hspace{22pt}Qui statis in domo Domini: % the \hspace is a workaround for lettrine+hangparas working poorly together
 in atriis domus Dei nostri.
 In noctibus extollite manus vestras in sancta:
 et benedicite Domino.
