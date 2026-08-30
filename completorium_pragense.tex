@@ -10,6 +10,7 @@
 \usepackage[show]{ed}
 \usepackage{csquotes}
 \usepackage{lettrine}
+\usepackage{hanging}
 
 % for gregorio
 \usepackage{luatextra}
@@ -77,6 +78,9 @@
   \phantomsection
   \label{can:#1}
   \input{cantus/#1.gtex}}
+
+\newenvironment{psalmus}{%
+  \begin{hangparas}{12pt}{1}}{\end{hangparas}}
 
 % inline page reference to full text or notation elsewhere
 \newcommand{\quickref}[1]{\quickrefFormat{\pageref{#1}}}
