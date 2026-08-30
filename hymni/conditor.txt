@@ -23,7 +23,7 @@ luna pallorem retinens
 candor in astris relucens
 certos observat limites.
 
-Te deprecamur hagie\edissue{aye: verify expansion}
+Te deprecamur \editorial{hagie}
 venture iudex saeculi
 conserva nos in tempore
 hostis a telo perfidi.

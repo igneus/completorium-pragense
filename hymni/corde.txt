@@ -39,7 +39,7 @@ perstrepent concentibus:
 saeculorum saeculis.
 
 Tibi Christe sit cum Patre
-ayoque\footnote{ex graeco: hagioque} Spiritu
+\editorial{hagioque} Spiritu
 hymnus melos laus perenis
 gratiarum actio:
 honor virtus victoria
