@@ -1,17 +1,17 @@
 Corde natus ex Parentis\quickref{can:nativitas_cordenatus}
 ante mundi exordium:
-alpha et o cognominatus
+Alpha et O cognominatus
 ipse fons et clausula:
-omnium quae sunt fuerunt:
+\editorial{omnium quae}\footnote{cf. \cite[68r]{bp1502}} sunt fuerunt:
 quaeque post futura sunt:
 saeculorum saeculis.
 
 O beatus partus ille:
-virgo cum puerpera
+Virgo cum puerpera
 edidit nostram salutem:
-feta sancto spiritu:
-Et puer redemptor orbis
-os sacratum pertulit
+feta\edissue{check orthography} Sancto Spiritu:
+Et puer Redemptor orbis
+os sacratum protulit\footnote{\cite[68r]{bp1502} pertulit}
 saeculorum saeculis.
 
 Psallat altitudo coeli:
@@ -26,8 +26,8 @@ Ecce quem vates vetustis
 concinebant saeculis:
 quem prophetarum fideles
 pagine spoponderant:
-emicant promissus olim
-cuncta collaudent eum\footnote{\cite[68r]{bp1502}: Deum}
+emicat promissus olim
+cuncta collaudent eum:\footnote{\cite[68r]{bp1502}: Deum}
 saeculorum saeculis.
 
 Te senes et te iuventus:
