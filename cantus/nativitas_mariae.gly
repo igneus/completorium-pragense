@@ -3,7 +3,7 @@ title: In Nativitate sanctae Mariae
 
 \score
 id: cumiucunditate
-manuscript: CZ-Pn XII A 21, 154r
+manuscript: CZ-Pn XII A 21, 154r; CZ-Pu IV D 9, 142r % (incipit ...iucunditate)
 annotation: Ant.
 annotation: VII c
 user-notes: once again check against the source
@@ -44,7 +44,7 @@ i i j i h gh ::
 
 \score
 id: quandonata
-manuscript: CZ-Pn XII A 21, 154v
+manuscript: CZ-Pn XII A 21, 154v; CZ-Pu IV D 9, 142r % (incipit ...est)
 annotation: Ad Nunc.
 annotation: III g
 c4 f ed

@@ -33,3 +33,15 @@ sal -- va om -- nes qui te glo -- ri -- fi -- cant.
 
 h g h j g e ::
 E u o u a e.
+
+\score
+id: glorificamus3
+manuscript: CZ-Pu IV D 9, 130r
+annotation: Ad Nunc.
+annotation: IV E
+c4
+d e f g fe d ::
+Glo -- ri -- fi -- ca -- mus te
+
+g f g j gf e :: % interesting
+<eu>E u o u a e.</eu>

@@ -4,6 +4,7 @@ title: In Epiphania Domini
 \score
 id: stella
 manuscript: CZ-Pn XV A 10, 67v; CZ-Pu XIV A 19, 38v
+% CZ-Pu IV D 9, 130r (incipit ...ista)
 annotation: Ad Nunc.
 annotation: VII c
 c3

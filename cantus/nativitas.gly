@@ -1,6 +1,7 @@
 \header
 title: In die sancto Nativitatis Christi
 
+% CZ-Pu IV D 9, 129r: c3b d f h h; differentia V.a
 \score
 id: verbumcaro
 manuscript: CZ-Pn XV A 10, 47v
