@@ -24,6 +24,25 @@ i i j i h gh ::
 <eu>E u o u a e.</eu>
 
 \score
+id: cumiucunditate_hr1
+manuscript: CZ-HKm Hr-1, 59r
+annotation: Ant.
+annotation: VII c
+c3 i g i j i i
+Cum iu -- cun -- di -- ta -- te
+i i i ij i
+na -- ti -- vi -- ta -- tem
+i i i i i g hi f e e
+h h h h h h h g fh g
+f e f f h gf e e ::
+be -- a -- ctae Ma -- ri -- ae ce -- le -- bre -- mus
+ut ip -- sa pro no -- bis in -- ter -- ce -- dat
+ad Do -- mi -- num Ie -- sum Chri -- stum.
+
+i i j i h gh ::
+<eu>E u o u a e.</eu>
+
+\score
 id: quandonata
 manuscript: CZ-Pn XII A 21, 154v
 annotation: Ad Nunc.
