@@ -1,4 +1,4 @@
-Corde natus ex Parentis\quickref{can:hymni_cordenatus}
+Corde natus ex Parentis\quickref{can:nativitas_cordenatus}
 ante mundi exordium:
 alpha et o cognominatus
 ipse fons et clausula:

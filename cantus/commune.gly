@@ -2,6 +2,40 @@
 title: Post Octavam Epiphaniae
 
 \score
+id: telucis
+manuscript: CZ-Pst DA III 17, 16v
+mode: 2
+annotation: Hymnus
+annotation: II
+f3 f h h h h hi h g
+f g h g f g f ez
+f f f f g g f e
+h h h g f g f ef ::
+Te lu -- cis an -- te ter -- mi -- num
+re -- rum Cre -- a -- tor pos -- ci -- mus
+ut so -- li -- ta cle -- men -- ti -- a
+sis prae -- sul ad cu -- sto -- di -- am.
+
+\score
+id: telucis_karlstejn
+manuscript: CZ-Pn XVI A 18, 55v
+mode: 8?
+annotation: Hymnus
+annotation: VIII
+user-notes: try to verify (editorially supplied) tune of the last verse from another source
+c4 g hihi j ih g h fef g
+gi k j ihi k j ih gz
+g i ef g ede f ed c
+g hihi j ih
+% end missing in the source, provided based on analogy with other hymn tunes
+% (last verse matching the first)
+            g h fef g ::
+Te lu -- cis an -- te ter -- mi -- num
+re -- rum Cre -- a -- tor pos -- ci -- mus
+ut so -- li -- ta cle -- men -- ti -- a
+sis prae -- sul ad cu -- sto -- di -- am.
+
+\score
 id: versiculus
 manuscript: CZ-Pu VI G 3a, 102r
 manuscript-notice: manuscriptum monasterii S. Georgii in castro Pragensi

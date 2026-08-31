@@ -2,6 +2,21 @@
 title: Adventus Domini
 
 \score
+id: conditoralme
+manuscript: CZ-Pst DA III 17, f. 17r
+mode: 4
+annotation: Hymnus
+annotation: IV
+f3 g e g i i j h i
+i j h i hg f h g
+i h f h g h f e
+e g h i hg f h g ::
+Con -- di -- tor al -- me si -- de -- rum
+ae -- ter -- na lux cre -- den -- ti -- um
+Chris -- te Re -- dem -- ptor om -- ni -- um
+ex -- au -- di pre -- ces sup -- pli -- cum.
+
+\score
 id: quiventurus
 manuscript: CZ-Pu XIV A 19, 1v; CZ-Pn XV A 10, 8r
 annotation: Ad Nunc.
