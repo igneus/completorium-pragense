@@ -81,3 +81,82 @@ quod an -- nun -- ti -- a -- tum est per Ga -- bri -- el
 ho -- di -- e ap -- pa -- ru -- it in I -- sra -- el
 per Ma -- ri -- am Vir -- gi -- nem mag -- nus Rex.
 E u o u a e.
+
+\score
+id: resonet
+manuscript: CZ-Pn XV A 10, 48r
+annotation: Trop.
+annotation: V
+user-notes: try to find an edition, check spelling
+c3 h f d f h i h
+h f d f h i h
+h f g h f g e
+f h h d f e c e
+f d d ::
+Re -- so -- net in lau -- di -- bus
+cum iu -- cun -- dis plau -- di -- bus
+Si -- on cum fi -- de -- li -- bus
+ap -- pa -- ru -- it quem ge -- nu -- it % [apparuit]
+Ma -- ri -- a.
+d f h h h ::
+Qui -- a vi -- de -- runt
+h f d f h i h
+h f d f h i h
+h f g h g f e
+f z0c4 j j f h g e g h f f ::
+Si -- on lau -- da Do -- mi -- num
+la -- be cau -- sa cri -- mi -- num % [causa criminum]
+nam Sal -- va -- tor om -- ni -- um
+ap -- pa -- ru -- it quem ge -- nu -- it Ma -- ri -- a.
+f h j j ::
+Quod pa -- ra -- sti
+j h f h j k j
+j h f h j k j
+j h i j i h g
+h j ::
+Qui re -- gnat in ae -- the -- re % ? Qui
+ve -- nit o -- vem quae -- re -- re
+nul -- las vo -- lens per -- de -- re
+App. !
+f h j ::
+Lu -- men ad
+j h f h j k j
+j h f h j k j
+j h i j i h g
+h j ::
+Cum ve -- nis -- set nun -- ti -- us
+Za -- cha -- ri -- ae fi -- li -- us
+pro -- phe -- ta -- vit gen -- ti -- bus
+App. !
+f h j j j ::
+Glo -- ri -- a Pa -- tri
+j h f h j k j
+j h f h j k j
+j h i j i h g
+h j j f ::
+Mun -- dum la -- vit san -- gui -- ne
+sub hu -- ma -- no reg -- mi -- ne
+im -- mu -- ta -- to Nu -- mi -- ne % [immutato Numine]
+Ap -- pa -- ru -- it.
+f h ::
+Si -- cut e -- rat
+
+\score
+id: verbumcaro_all
+manuscript: CZ-Pn XV A 10, 48r
+annotation: Ant.
+annotation: [VI]
+c3 h h h g i i j
+% The source changes the reciting tone from c to a,
+% which makes no sense. Editorially corrected to the well known
+% antiphon model.
+g h f e
+h h h i h g i j
+j ji i h ::
+Ver -- bum ca -- ro fac -- tum est
+al -- le -- lu -- ia
+et ha -- bi -- ta -- vit in no -- bis
+al -- le -- lu -- ia.
+
+j j h ij i h ::
+<eu>E u o u a e.</eu>
