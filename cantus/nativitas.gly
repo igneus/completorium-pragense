@@ -20,6 +20,24 @@ glo -- ri -- am qua -- si ! U -- ni -- ge -- ni -- ti a Pa -- tre.
 E u o u a e.
 
 \score
+id: verbumcaro_kh
+manuscript: CZ-Pu XXIII A 2, 15r
+annotation: Ant.
+annotation: V a
+cb3
+d f h g f gh h
+h h ij kvJIHG h hih f f
+e f f f f e d e f
+f!gh gf f f gh h ef g fvED e efe d d ::
+Ver -- bum ca -- ro fac -- tum est,
+et ha -- bi -- ta -- vit in no -- bis,
+et vi -- di -- mus glo -- ri -- am e -- ius,
+glo -- ri -- am qua -- si U -- ni -- ge -- ni -- ti a Pa -- tre.
+
+h h i g h fe ::
+E u o u a e.
+
+\score
 id: cordenatus
 manuscript: CZ-Pst DA III 17, f. 18v
 mode: 3
@@ -80,6 +98,25 @@ Mag -- num no -- men Do -- mi -- ni E -- ma -- nu -- el
 quod an -- nun -- ti -- a -- tum est per Ga -- bri -- el
 ho -- di -- e ap -- pa -- ru -- it in I -- sra -- el
 per Ma -- ri -- am Vir -- gi -- nem mag -- nus Rex.
+E u o u a e.
+
+\score
+id: magnum_kh
+manuscript: CZ-Pu XXIII A 2, 15r
+annotation: Ad Nunc.
+annotation: V? a?
+user-notes: what is the psalm tone? compare with the one known from Šteyer and Božan
+cb3
+h g f g h g f g h f h
+d e f g h g f g e e d
+h h h i k j i h h f h
+d e f g h g f e e d ::
+Mag -- num no -- men Do -- mi -- ni E -- ma -- nu -- el
+quod an -- nun -- ti -- a -- tum est per Ga -- bri -- el
+ho -- di -- e ap -- pa -- ru -- it in I -- sra -- el
+per Ma -- ri -- am Vir -- gi -- nem mag -- nus Rex.
+
+h h f g e d :: % ? what is this?
 E u o u a e.
 
 \score
