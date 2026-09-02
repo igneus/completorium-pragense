@@ -20,7 +20,18 @@ Goal of the edition is to make accessible at least a partial experience
 of the medieval Divine Office, while not watering down peculiarities
 (language, organization) of the original medieval breviary.
 
-## Prerequisites
+## How to use
+
+1. Learn to chant the pre-Vatican II Roman Compline first -
+   it's easier to find learning resources and
+   it will be much easier to understand and use the medieval book
+   with this experience under your belt
+1. General structure with default content used for most of the liturgical
+   year is at the back of the book, in section *Completorium commune*
+1. For common chant tones not included in the book, use,
+   for the time being, the "contemporary" Roman tones you learned in step 1.
+
+## Build prerequisites
 
 * Ruby (any version from 2.0 up should work fine)
   * Rake (version shouldn't matter here, either)
@@ -33,5 +44,7 @@ of the medieval Divine Office, while not watering down peculiarities
 ## Building
 
 `$ rake`
+
+should produce file `completorium_pragense.pdf`
 
 [gly]: https://github.com/igneus/gly
