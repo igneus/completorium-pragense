@@ -20,3 +20,23 @@ Ma -- gi e -- am vi -- de -- runt
 et Chris -- to re -- gi
 mu -- ne -- ra ob -- tu -- le -- runt.
 E u o u a e.
+
+\score
+id: stella_hr4
+manuscript: CZ-HKm Hr-4, 56v
+annotation: Ad Nunc.
+annotation: VII c
+c3
+h h ij i i i j i i h h
+h ij i hg fg hf g f e e
+h!ij hiHG f g h e f
+e d f h e
+f e d ef f e e ::
+Stel -- la is -- ta si -- cut flam -- ma co -- rus -- cat
+et re -- gem re -- gum De -- um de -- mon -- strat. % bp1502: -Deum
+Ma -- gi e -- am vi -- de -- runt
+et Chris -- to re -- gi
+mu -- ne -- ra ob -- tu -- le -- runt.
+
+i i j i h ih ::
+E u o u a e.

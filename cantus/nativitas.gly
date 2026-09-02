@@ -38,6 +38,16 @@ h h i g h fe ::
 E u o u a e.
 
 \score
+id: verbumcaro_hr4
+manuscript: CZ-HKm Hr-4, 35r
+annotation: Ant.
+annotation: V a
+% like CZ-Pu XXIII A 2, 15r, except of following (and no bemol)
+c3
+j gh i gf g ghg f f ::
+U -- ni -- ge -- ni -- ti a Pa -- tre.
+
+\score
 id: cordenatus
 manuscript: CZ-Pst DA III 17, f. 18v
 mode: 3
@@ -118,6 +128,21 @@ per Ma -- ri -- am Vir -- gi -- nem mag -- nus Rex.
 
 h h f g e d :: % ? what is this?
 E u o u a e.
+
+\score
+id: magnum_hr4
+manuscript: CZ-HKm Hr-4, 35r
+annotation: Ad Nunc.
+annotation: per. % bottom right corner of the page: "Nunc dimittis tonus peregrinus"
+c3
+h g f g h g f g h f h
+d e f g h g f e f e d
+h f h i k j i h h f h
+d e f g h g f e f e d ::
+Mag -- num no -- men Do -- mi -- ni E -- ma -- nu -- el
+quod an -- nun -- ti -- a -- tum est per Ga -- bri -- el
+ho -- di -- e ap -- pa -- ru -- it in I -- sra -- el
+per Ma -- ri -- am Vir -- gi -- nem est mag -- nus Rex.
 
 \score
 id: resonet
