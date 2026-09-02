@@ -6,7 +6,6 @@ id: cumiucunditate
 manuscript: cf. CZ-Pn XII A 21, 154r
 annotation: Ant.
 annotation: VII c
-user-notes: try to find a source with the text variant specific to the feast
 c3 i g i j i i
 Cum iu -- cun -- di -- ta -- te
 
@@ -21,6 +20,27 @@ ut ip -- sa pro no -- bis in -- ter -- ce -- dat
 ad Do -- mi -- num Ie -- sum Chri -- stum.
 
 i i j i h gh ::
+<eu>E u o u a e.</eu>
+
+\score
+id: cumiucunditate_vor
+manuscript: A-VOR Cod. 259/I, 229r
+annotation: Ant.
+annotation: VII c
+c3 i g i j i i
+Cum iu -- cun -- di -- ta -- te
+
+i i i ij i
+con -- cep -- ti -- o -- nem
+
+i i i i g hi f e e
+h h h h h h h h fh h
+e f f f h h e e ::
+san -- ctae Ma -- ri -- ae ce -- le -- bre -- mus
+ut ip -- sa pro no -- bis in -- ter -- ce -- dat
+ad Do -- mi -- num Ie -- sum Chri -- stum.
+
+i i j i h h ::
 <eu>E u o u a e.</eu>
 
 \score
