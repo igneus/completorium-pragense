@@ -1,10 +1,10 @@
 Signum Crucis mirabile:
 olim per orbem relucens:
-renitens in qua pependit innocens:
+renitens\edissue{superfluous word, synonym of the immediately preceding one, looks like a classical error in copying a manuscript with corrections} in qua pependit innocens:
 Christus Redemptor omnium.
 
 Haec arbor est sublimior:
-cedris quas habet libanus:
+cedris quas habet Libanus:
 q\editorial{uae} poma nescit noxia:
 sed ferre vitae praemia.
 
@@ -15,7 +15,7 @@ munire nos non abnuas.
 
 Ut ore tibi consono:
 et corde devotissimo:
-possimus omni tempore:
+possimus \editorial{omni tempore}:
 laudes referre debitas.
 
 Te summa Deus Trinitas:
