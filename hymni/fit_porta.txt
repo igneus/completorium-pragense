@@ -1,25 +1,27 @@
-Fit porta \editorial{Christi pervia:\quickref{can:conceptio_fitporta}
-reserta plena gratia:
+Fit porta Christi pervia:\quickref{can:assumptio_fitporta}
+referta\edissue{compare the other occurrence in diu1523 as well as other sources} plena gratia:
 transitque Rex et permanet:
 clausa ut fuit per saecula.
 
-Genus superni luminis:
+Genus superni luminis
 processit alvo Virginis:
 Sponsus Redemptor Conditor:
 suae gigas ecclesiae.
 
-Honor matris et gaudium:
+Honor Matris et gaudium:
 immensa spes credentium:
 per acra mortis pocula:
 resolvit nostra crimina.
 
 Maria Mater gratiae:
-mater misericordiae:
+\editorial{Mater misericordiae:
 tu nos ab hoste protege:
-in hora mortis suscipe.
+in hora mortis suscipe.}\footcite[De BMV, f. 5v]{diu1523}
+
+Maria Virgo virginum.\edissue{full text}
 
 Gloria tibi Domine:
-qui natus es de Virgine:
+\editorial{qui natus es de Virgine:
 cum Patre et Sancto Spiritu:
 in sempiterna saecula.
 Amen.}\footcite[De BMV, f. 5v]{diu1523}

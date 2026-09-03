@@ -44,20 +44,6 @@ i i j i h h ::
 <eu>E u o u a e.</eu>
 
 \score
-id: fitporta
-manuscript: CZ-HKm Hr-7, 293r; CZ-Pu I A 58, 70v
-annotation: Hymnus
-annotation: VIII
-c4 g d g g ghg e f g
-h!iji h g h gf e f g
-g gji jk k klk j i hig
-g d g gr g ghg e f g :: % there's a superfluous syllable, the note is made hollow
-Fit por -- ta Chri -- sti per -- vi -- a
-re -- ser -- ta ple -- na gra -- ti -- a.
-Trans -- it -- que Rex et per -- ma -- net
-clau -- sa ut fu -- it per sae -- cu -- la.
-
-\score
 id: quandoconcepta
 manuscript: cf. CZ-Pn XII A 21, 154v
 annotation: Ad Nunc.
