@@ -66,6 +66,12 @@ end
 
 desc 'run checks'
 task :check do
-  sh 'grep', '-r', 'coe', # caelum, not coelum
+  sh 'grep',
+     '--recursive',
+     '--exclude-from=.gitignore',
+     '--extended-regexp',
+     '--color',
+     ('coe' + # caelum, not coelum
+      '|\\\\label'), # always use \pslabel instead of \label
      'partes', 'hymni', 'psalmi', 'cantus'
 end
