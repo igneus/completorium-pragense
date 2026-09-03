@@ -63,3 +63,9 @@ task :clean do
     end
   end
 end
+
+desc 'run checks'
+task :check do
+  sh 'grep', '-r', 'coe', # caelum, not coelum
+     'partes', 'hymni', 'psalmi', 'cantus'
+end
