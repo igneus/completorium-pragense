@@ -10,6 +10,6 @@ ne polluantur corpora.
 
 Praesta Pater omnipotens:
 per Iesum Christum Dominum:
-qui tecum in perpetuum:
+qui tecum \editorial{in perpetuum}:
 regnat cum Sancto Spiritu.
 Amen.
