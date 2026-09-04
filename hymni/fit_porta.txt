@@ -1,5 +1,5 @@
 Fit porta Christi pervia:\quickref{can:assumptio_fitporta}
-referta\edissue{compare the other occurrence in diu1523 as well as other sources} plena gratia:
+referta\edissue{compare other sources} plena gratia:
 transitque Rex et permanet:
 clausa ut fuit per saecula.
 
@@ -18,11 +18,14 @@ Maria Mater gratiae:
 tu nos ab hoste protege:
 in hora mortis suscipe.}\footcite[De BMV, f. 5v]{diu1523}
 
-Maria Virgo virginum.\edissue{full text}
+Maria Virgo virginum:
+\editorial{deposce nobis omnium
+remissionem criminum:
+tuum placando Filium.}\footcite[De BMV, f. 5v]{diu1523}
 
 Gloria tibi Domine:
 \editorial{qui natus es de Virgine:
 cum Patre et Sancto Spiritu:
 in sempiterna saecula.
-Amen.}\footcite[De BMV, f. 5v]{diu1523}
+Amen.}\footcite[De BMV, f. 5v]{diu1523}\editorial{If possible, reduce the three separate footnotes to one footnote with three references}
 % bp1502 69r: in hymnario designatus ut hymnus ad completorium Annuntiationis
