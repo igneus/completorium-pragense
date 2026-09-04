@@ -3,7 +3,7 @@ title: In festo Visitationis sanctae Mariae Virginis
 
 \score
 id: cumiucunditate
-manuscript: cf. CZ-Pn XII A 21, 154r
+manuscript: cf. CZ-Pn XII A 21, 154r % in the known Visitatio sources always just referenced as known chant by incipit
 annotation: Ant.
 annotation: VII c
 user-notes: try to find a source with the text variant specific to the feast
@@ -21,4 +21,38 @@ ut ip -- sa pro no -- bis in -- ter -- ce -- dat
 ad Do -- mi -- num Ie -- sum Chri -- stum.
 
 i i j i h gh ::
+<eu>E u o u a e.</eu>
+
+\score
+id: ochristimater
+manuscript: CZ-Nlobkowicz R VI Fb 16, 3v; CZ-Pu XII A 9, 61r
+annotation: Hymnus
+annotation: VIII
+user-notes: obviously the Fit porta tune - compare other sources, probably pick one variant for all relevant hymns
+c4 g d g g ghg e f g
+h!iji h g h gFE f g g
+g gji jk k klk j i hig
+g d g g ghg e f g ::
+O Chri -- sti Ma -- ter ful -- gi -- da:
+sca -- tens fons o -- mni gra -- ti -- a:
+lux pel -- lens quae -- que nu -- bi -- la:
+Ma -- ri -- a ve -- nus -- tis -- si -- ma.
+
+\score
+id: gaude
+manuscript: CZ-Nlobkowicz R VI Fb 16, 4r; cf. CZ-Pu XII A 9, 61r
+annotation: Ad Nunc.
+annotation: VIII G
+c4 ghGE/fvED/fef g hjIHG fg g gvFED/efED c f!ghGF/gh g
+jkJIH j g hg fvED fe fg ghGF/gh g g hjIH/i!jk/kvJIHghg f g g
+Gau -- de Ma -- ri -- a Ma -- ter Chri -- sti
+quae sin -- gu -- la -- ri pri -- vi -- le -- gi -- o me -- ru -- i -- sti
+g gvFEde dc g@hghGFef g hjg@hg/f!ghg f g
+ge/fg fvED dg h g hj g hg fvED hghGFE f g % CZ-Pu XII A 9: on gen<ti>um 'ef'
+hjIHG/hvGfg/ghg!e/fvED de!fg!hvGF/ghg f g ::
+por -- ta -- re Chri -- stum Do -- mi -- num
+lu -- men ad re -- ve -- la -- ti -- o -- nem gen -- ti -- um
+al -- le -- lu -- ia.
+
+j j i j h g :: % alignment to lyrics uncertain, taking the usual
 <eu>E u o u a e.</eu>
