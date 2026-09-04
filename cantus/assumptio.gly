@@ -1,3 +1,28 @@
+\header
+title: Assumptio Mariae
+
+\score
+id: cumiucunditate
+manuscript: cf. CZ-Pn XII A 21, 154r
+annotation: Ant.
+annotation: VII c
+user-notes: try to find a source with the text variant specific to the feast
+c3 i g i j i i
+Cum iu -- cun -- di -- ta -- te
+
+i i i ij i
+as -- sump -- ti -- o -- nem % source: nativitatem
+
+i i i i gh i f e e
+h h h h h h h g fh g
+f e f f h h e e ::
+san -- ctae Ma -- ri -- ae ce -- le -- bre -- mus
+ut ip -- sa pro no -- bis in -- ter -- ce -- dat
+ad Do -- mi -- num Ie -- sum Chri -- stum.
+
+i i j i h gh ::
+<eu>E u o u a e.</eu>
+
 \score
 id: fitporta
 manuscript: CZ-HKm Hr-7, 293r; CZ-Pu I A 58, 70v
