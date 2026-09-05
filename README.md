@@ -8,7 +8,7 @@ of *Diurnale horarum canonicarum secundum veram Rubricam archiepiscopatus Eccles
 printed 1523 in Nürnberg.
 Unlike many others, the 1523 edition treats Compline systematically and
 provides many chant and prayer texts (in other sources usually indicated
-only by incipits) in full, which is of great advantage for a modern editor.
+only by incipits) in full, which is of great help for a modern editor.
 Textual variants, alternative rules and additional details
 from other print and manuscript sources are provided in footnotes.
 Wherever possible, chants are provided with notation sourced
@@ -46,5 +46,15 @@ of the medieval Divine Office, while not watering down peculiarities
 `$ rake`
 
 should produce file `completorium_pragense.pdf`
+
+## Data extraction
+
+If you are only really interested in the chant transcriptions as data,
+
+`$ rake gabc`
+
+produces in directory `cantus/` a bunch of gabc files.
+(All the Ruby prerequisites are still needed for this,
+but not the LaTeX ones.)
 
 [gly]: https://github.com/igneus/gly
