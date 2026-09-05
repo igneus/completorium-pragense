@@ -32,7 +32,7 @@ user-notes: find a matching Gloria Patri tone
 f3 ffvEC/e!fh f f f hf/gef/if/ghGF ef!gh gf
 fg!hi ij if/ghGF ef f hvGE gig!h gf
 c c e!fh f f hh ij if/ghf
-hf ef f/hiHGF/ghf ef f : % divisio editorial, the source marks r2 just with a highlighted initial
+hf ef fh/ivHGF/ghf ef f : % divisio editorial, the source marks r2 just with a highlighted initial
 Quo -- mo -- do fi -- et is -- tud
 re -- spon -- dens a -- it Ma -- ri -- a:
 qui -- a vi -- rum non co -- gnos -- co.
@@ -58,21 +58,38 @@ Spi.
 % Spiritus.
 
 \score
+id: quomodo_khg
+manuscript: CZ-Pu XXIII A 2, 58v
+f3 hh ij if/ghfg ::
+co -- gnos -- co.
+c4 hgh/jg/ji/gh gf gh ::
+Spi -- ri -- tus
+f3 d g!hi ih/ij hvGF fhivHGFghf ::
+su -- per -- ve -- ni -- et
+% bemol in Altissimi
+c4 d d hghGF/gh/dfEDCd/fd/efED cd dfe!f ed ::
+ob -- um -- bra -- bit ti -- bi.
+c4 hg@hg hf f!ghg/hjh hvGFE/gh gf ::
+Fi -- li -- us De -- i.
+
+% CZ-Pn XII A 24, 248r has the responsory with shorter r1 text, ignoring
+
+\score
 id: alma
 manuscript: CZ-Pn XII A 21, 104v
 annotation: Ad Nunc.
 annotation: V a
-c3 df!hi!jkJIHG/hih fef h h d e@fef gvFEde d
+c3 df!hi!jkJIHG/hih fef h h d e@fef gvFEDe d
 h i@kjk ih f!gh h h de!fgFE f hd/e!fgFE f
 k jkJIHG/hih fef hd/e!fgFE f
 Al -- ma Re -- dem -- pto -- ris Ma -- ter
 quae per -- vi -- a cae -- li por -- ta ma -- nens
 et stel -- la ma -- ris
-d e@fef f g fvEde d
+d e@fef f g fvEDe d
 h h h g hih gf z0c2 c c!de d
 suc -- cur -- re ca -- den -- ti
 sur -- ge -- re qui cu -- rat po -- pu -- lo
-ihiHGF gi h ij jvIhi gf
+ihiHGF gi h ij jvIHi gf
 d!ef fvEDC z0c3 f g fvEde d
 d e@fef h fef gf ed z0c4 df f
 tu quae ge -- nu -- i -- sti
@@ -81,6 +98,37 @@ tu -- um sanc -- tum Ge -- ni -- to -- rem
 z0c3 kjkJIH/fg h hvhvGF/e!fgf ed h i@kjk z0c3 ih f!gh h
 h h hg f gh hvGF/e!fgf ed d z0c4 g@hgh i hg fg!hiHG h
 j i jkj fg@hgh ih gf df!g gf ::
+Vir -- go pri -- us ac pos -- te -- ri -- us
+Ga -- bri -- e -- lis ab o -- re su -- mens il -- lud a -- ve
+pec -- ca -- to -- rum mi -- se -- re -- re.
+
+j j k i j hg ::
+<eu>E u o u a e.</eu>
+
+\score
+id: alma_khg
+manuscript: CZ-Pu XXIII A 2, 306r; CZ-HKm Hr-4, 196v % hr4 jen po "caeli por"
+annotation: Ad Nunc.
+annotation: V a
+cb3 df!hhi!jkJIHG/hih fef h h d e@fef gvFEDe d
+c3 h jk gxih gfg h h de!fgFE f hhd/e!fgFE f
+cb3 k jkJIH g hiHGFE f
+Al -- ma Re -- dem -- pto -- ris Ma -- ter
+quae per -- vi -- a cae -- li por -- ta ma -- nens
+et stel -- la ma -- ris
+d eg g g fgFEDe d
+h h h c2 e fgf ed cd evDC d
+suc -- cur -- re ca -- den -- ti
+sur -- ge -- re qui cu -- rat po -- pu -- lo
+ihiHGF gi h ij jvIHi gf
+cb3 g!hih gvFE f g fvEDe d
+d e@fef z0c4 i hgh ih gf df!g ed
+tu quae ge -- nu -- i -- sti
+na -- tu -- ra mi -- ran -- te
+tu -- um sanc -- tum Ge -- ni -- to -- rem
+z0cb3 kjkJIH/fg h hvhvGFE!fgFEf ed h jk ih f!gh h
+c3 h h gxhvGF f f!gh hvGFE!fgFE!f ed d efe@f g fe gxde!fgFE f
+cb4 j i jkj fg@hgh ih gf df!g gf ::
 Vir -- go pri -- us ac pos -- te -- ri -- us
 Ga -- bri -- e -- lis ab o -- re su -- mens il -- lud a -- ve
 pec -- ca -- to -- rum mi -- se -- re -- re.
@@ -122,3 +170,33 @@ Glo -- ri -- a ti -- bi Do -- mi -- ne.
 
 h g h j g e ::
 <eu>E u o u a e.</eu>
+
+\score
+id: haec_khg
+manuscript: CZ-Pu XXIII A 2, 60r
+c4 gvgvFEf d f!gh/hvGFE de e
+cd efEDC d gf/gh gvFE df f
+g gf/gh gvFE df f e!fg/gvFEf d c ::
+re -- demp -- ti -- o -- nis
+de -- vo -- te re -- co -- la -- mus
+et ex -- sul -- te -- mus di -- cen -- tes
+
+\score
+id: haec_plz
+manuscript: CZ-Pn XII A 24, 249v
+c4 e!fg fe de d c de e e
+f d f f!gh hvGFE d e e ::
+po -- pu -- li su -- i re -- spe -- xit
+et re -- demp -- ti -- o -- nem mi -- sit
+c4 fe d f!gh/hvGFE d!ef e e :
+fe -- mi -- na fu -- ga -- vit
+g hj j ji@hjg g hg fe de e
+e fvED f!gh hvGFE d e e ::
+Ho -- di -- e De -- us ho -- mo fac -- tus
+id quod fu -- it per -- man -- sit
+c4 jvIGh g gvFEf d f!gh/hvGFE de e
+cd efED d gfh gvFE df f
+g gf/gh g df f e!fg/gvFE d c ::
+nos -- trae re -- demp -- ti -- o -- nis
+de -- vo -- te re -- co -- la -- mus
+et ex -- sul -- te -- mus di -- cen -- tes
