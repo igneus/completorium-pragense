@@ -3,6 +3,7 @@ title: Post Octavam Epiphaniae
 
 \score
 id: telucis
+office-part: hymnus
 manuscript: CZ-Pst DA III 17, 16v
 mode: 2
 annotation: Hymnus
@@ -18,6 +19,7 @@ sis prae -- sul ad cu -- sto -- di -- am.
 
 \score
 id: telucis_karlstejn
+office-part: hymnus
 manuscript: CZ-Pn XVI A 18, 55v
 mode: 8?
 annotation: Hymnus
@@ -54,6 +56,7 @@ pro -- te -- ge nos.
 
 \score
 id: salva1
+office-part: antiphona
 manuscript: CZ-Pu XIV A 19, 52r; CZ-Pn XV A 10, 81r
 annotation: Ad Nunc.
 annotation: III g
@@ -73,6 +76,7 @@ E u o u a e.
 
 \score
 id: salva2
+office-part: antiphona
 manuscript: CZ-Pu XIV A 19, 52r; cf. CZ-Pn XV A 10, 81r
 annotation: Ad Nunc.
 annotation: V a

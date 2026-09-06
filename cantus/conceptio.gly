@@ -3,6 +3,7 @@ title: In Conceptione sanctae Mariae Virginis
 
 \score
 id: cumiucunditate
+office-part: antiphona
 manuscript: cf. CZ-Pn XII A 21, 154r
 annotation: Ant.
 annotation: VII c
@@ -24,6 +25,7 @@ i i j i h gh ::
 
 \score
 id: cumiucunditate_vor
+office-part: antiphona
 manuscript: A-VOR Cod. 259/I, 229r
 annotation: Ant.
 annotation: VII c
@@ -45,6 +47,7 @@ i i j i h h ::
 
 \score
 id: quandoconcepta
+office-part: antiphona
 manuscript: cf. CZ-Pn XII A 21, 154v
 annotation: Ad Nunc.
 annotation: III g

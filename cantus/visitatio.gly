@@ -3,6 +3,7 @@ title: In festo Visitationis sanctae Mariae Virginis
 
 \score
 id: cumiucunditate
+office-part: antiphona
 manuscript: cf. CZ-Pn XII A 21, 154r % in the known Visitatio sources always just referenced as known chant by incipit
 annotation: Ant.
 annotation: VII c
@@ -25,6 +26,7 @@ i i j i h gh ::
 
 \score
 id: ochristimater
+office-part: hymnus
 manuscript: CZ-Nlobkowicz R VI Fb 16, 3v; CZ-Pu XII A 9, 61r
 annotation: Hymnus
 annotation: VIII
@@ -40,6 +42,7 @@ Ma -- ri -- a ve -- nus -- tis -- si -- ma.
 
 \score
 id: gaude
+office-part: antiphona
 manuscript: CZ-Nlobkowicz R VI Fb 16, 4r; cf. CZ-Pu XII A 9, 61r
 annotation: Ad Nunc.
 annotation: VIII G

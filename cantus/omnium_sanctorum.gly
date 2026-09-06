@@ -3,6 +3,7 @@ title: Omnium sanctorum
 
 \score
 id: salvator
+office-part: antiphona
 annotation: Ad Nunc
 annotation: I g
 manuscript: CZ-Pu XIV C 20, 24v; CZ-Pu XII C 3, 29v
@@ -45,6 +46,7 @@ E u o u a e.
 
 \score
 id: salvator_hr1
+office-part: antiphona
 annotation: Ad Nunc
 annotation: I g
 manuscript: CZ-HKm Hr-1, 103v

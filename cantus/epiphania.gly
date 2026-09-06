@@ -3,6 +3,7 @@ title: In Epiphania Domini
 
 \score
 id: stella
+office-part: antiphona
 manuscript: CZ-Pn XV A 10, 67v; CZ-Pu XIV A 19, 38v
 % CZ-Pu IV D 9, 130r (incipit ...ista)
 annotation: Ad Nunc.
@@ -23,6 +24,7 @@ E u o u a e.
 
 \score
 id: stella_hr4
+office-part: antiphona
 manuscript: CZ-HKm Hr-4, 56v
 annotation: Ad Nunc.
 annotation: VII c
@@ -44,6 +46,7 @@ E u o u a e.
 
 \score
 id: stella_plz
+office-part: antiphona
 manuscript: CZ-Pn XII A 24, 48v
 annotation: Ad Nunc.
 annotation: VII c

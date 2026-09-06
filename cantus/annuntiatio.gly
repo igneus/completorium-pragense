@@ -3,6 +3,7 @@ title: In Annuntiatione sanctae Mariae Virginis
 
 \score
 id: cumiucunditate
+office-part: antiphona
 manuscript: cf. CZ-Pn XII A 21, 154r
 annotation: Ant.
 annotation: VII c
@@ -25,6 +26,7 @@ i i j i h gh ::
 
 \score
 id: quomodo
+office-part: responsorium prolixum
 manuscript: CZ-Pn XII A 22, 272v
 annotation: Resp.
 annotation: II
@@ -76,6 +78,7 @@ Fi -- li -- us De -- i.
 
 \score
 id: alma
+office-part: antiphona
 manuscript: CZ-Pn XII A 21, 104v
 annotation: Ad Nunc.
 annotation: V a
@@ -107,6 +110,7 @@ j j k i j hg ::
 
 \score
 id: alma_khg
+office-part: antiphona
 manuscript: CZ-Pu XXIII A 2, 306r; CZ-HKm Hr-4, 196v % hr4 jen po "caeli por"
 annotation: Ad Nunc.
 annotation: V a
@@ -138,6 +142,7 @@ j j k i j hg ::
 
 \score
 id: haec
+office-part: antiphona
 manuscript: CZ-Pn XII A 22, 274v
 annotation: Ad Nunc.
 annotation: IV E

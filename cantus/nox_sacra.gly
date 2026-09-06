@@ -4,6 +4,7 @@ title: In Sacra nocte
 % CZ-Pu IV D 9, 128v: c4 gd f!gh g h g g
 \score
 id: dumortus
+office-part: antiphona
 manuscript: CZ-Pn XV A 10, 41r
 annotation: Ad Nunc.
 annotation: VIII G
@@ -21,6 +22,7 @@ E u o u a e.
 
 \score
 id: dumortus_hr4
+office-part: antiphona
 manuscript: CZ-HKm Hr-4, 28r
 annotation: Ad Nunc.
 annotation: VIII G

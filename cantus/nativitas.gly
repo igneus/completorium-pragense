@@ -4,6 +4,7 @@ title: In die sancto Nativitatis Christi
 % CZ-Pu IV D 9, 129r: c3b d f h h; differentia V.a
 \score
 id: verbumcaro
+office-part: antiphona
 manuscript: CZ-Pn XV A 10, 47v
 annotation: Ant.
 annotation: VI F
@@ -21,6 +22,7 @@ E u o u a e.
 
 \score
 id: verbumcaro_kh
+office-part: antiphona
 manuscript: CZ-Pu XXIII A 2, 15r
 annotation: Ant.
 annotation: V a
@@ -49,6 +51,7 @@ U -- ni -- ge -- ni -- ti a Pa -- tre.
 
 \score
 id: cordenatus
+office-part: hymnus
 manuscript: CZ-Pst DA III 17, f. 18v
 mode: 3
 annotation: Hymnus
@@ -71,6 +74,7 @@ sae -- cu -- lo -- rum sae -- cu -- lis.
 
 \score
 id: cordenatus_specialnik
+office-part: hymnus
 manuscript: CZ-HKm Hr-7, f. 292r
 mode: 3
 annotation: Hymnus
@@ -95,6 +99,7 @@ sae -- cu -- lo -- rum sae -- cu -- lis.
 
 \score
 id: magnum
+office-part: antiphona
 manuscript: CZ-Pn XV A 10, 47v
 annotation: Ad Nunc.
 annotation: V a
@@ -112,6 +117,7 @@ E u o u a e.
 
 \score
 id: magnum_kh
+office-part: antiphona
 manuscript: CZ-Pu XXIII A 2, 15r
 annotation: Ad Nunc.
 annotation: V? a?
@@ -131,6 +137,7 @@ E u o u a e.
 
 \score
 id: magnum_hr4
+office-part: antiphona
 manuscript: CZ-HKm Hr-4, 35r
 annotation: Ad Nunc.
 annotation: per. % bottom right corner of the page: "Nunc dimittis tonus peregrinus"
@@ -146,6 +153,7 @@ per Ma -- ri -- am Vir -- gi -- nem est mag -- nus Rex.
 
 \score
 id: resonet
+office-part: tropus
 manuscript: CZ-Pn XV A 10, 48r
 annotation: Trop.
 annotation: V

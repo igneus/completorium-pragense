@@ -3,6 +3,7 @@ title: Assumptio Mariae
 
 \score
 id: cumiucunditate
+office-part: antiphona
 manuscript: cf. CZ-Pn XII A 21, 154r
 annotation: Ant.
 annotation: VII c
@@ -25,6 +26,7 @@ i i j i h gh ::
 
 \score
 id: fitporta
+office-part: hymnus
 manuscript: CZ-HKm Hr-7, 293r; CZ-Pu I A 58, 70v
 annotation: Hymnus
 annotation: VIII

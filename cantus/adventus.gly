@@ -3,6 +3,7 @@ title: Adventus Domini
 
 \score
 id: conditoralme
+office-part: hymnus
 manuscript: CZ-Pst DA III 17, f. 17r
 mode: 4
 annotation: Hymnus
@@ -18,6 +19,7 @@ ex -- au -- di pre -- ces sup -- pli -- cum.
 
 \score
 id: quiventurus
+office-part: antiphona
 manuscript: CZ-Pu XIV A 19, 1v; CZ-Pn XV A 10, 8r
 manuscript-additional: CZ-HKm Hr-4, 2r
 annotation: Ad Nunc.
