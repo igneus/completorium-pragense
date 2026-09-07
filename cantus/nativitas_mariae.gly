@@ -4,11 +4,10 @@ title: In Nativitate sanctae Mariae
 \score
 id: cumiucunditate
 office-part: antiphona
-manuscript: CZ-Pn XII A 21, 154r; CZ-Pu XXIII A 2, 219r; CZ-HKm Hr-3, 115r
-manuscript-additional: CZ-Pu IV D 9, 142r % (incipit ...iucunditate)
+manuscript: CZ-Pn XII A 21, 154r; CZ-Pu XXIII A 2, 219r
+manuscript-additional: CZ-HKm Hr-3, 115r; CZ-Pu IV D 9, 142r % (incipit ...iucunditate)
 annotation: Ant.
 annotation: VII c
-user-notes: once again check against the source; choose up to two sources to be listed with the score, more look messy
 c3 i g i j i i
 Cum iu -- cun -- di -- ta -- te
 
@@ -48,8 +47,8 @@ i i j i h gh ::
 \score
 id: quandonata
 office-part: antiphona
-manuscript: CZ-Pn XII A 21, 154v; CZ-Pu XXIII A 2, 219v; CZ-HKm Hr-3, 115r
-manuscript-additional: CZ-Pu IV D 9, 142r % (incipit ...est)
+manuscript: CZ-Pn XII A 21, 154v; CZ-Pu XXIII A 2, 219v
+manuscript-additional: CZ-HKm Hr-3, 115r; CZ-Pu IV D 9, 142r % (incipit ...est)
 annotation: Ad Nunc.
 annotation: III g
 c4 f ed
