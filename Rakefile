@@ -66,6 +66,11 @@ end
 
 desc 'run checks'
 task :check do
+  ruby 'scripts/find_scores.rb',
+       '--fail-if-found',
+       '-m', 'headers["manuscript"]&.yield_self {|m| m.split(";").size > 2 }',
+       *Dir['cantus/*.gly']
+
   sh 'grep',
      '--recursive',
      '--exclude-from=.gitignore',
