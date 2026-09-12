@@ -1,4 +1,4 @@
-Verbum caro panem verum\edissue{notation}
+Verbum caro panem verum\quickref{can:corpus_christi_verbum}
 verbo carnem efficit:
 fitque sanguis Christi merum:
 et si sensus deficit:
