@@ -97,3 +97,12 @@ in pa -- ce.
 
 h h i g h f ::
 E u o u a e.
+
+\score
+id: benedicamus
+manuscript: CZ-Pst DA III 17, 15r
+user-notes: compare other sources; in the source the hymn is between Matins and Lauds hymns, not at all connected with Compline
+c3 f e f e c ef!ghf e f ::
+Be -- ne -- di -- ca -- mus Do -- mi -- no.
+fef ec ef!ghf e f :: % editorial, the source has only Benedicamus
+De -- o gra -- ti -- as.
