@@ -1,4 +1,18 @@
 \score
+id: afructu
+office-part: antiphona
+manuscript: CZ-HKm Hr-3, 7v
+annotation: Ant.
+annotation: II D
+f3 fvEC ef f fg hvGF e h ij j j i h ij hvGF
+c ef f i ih/ij hvGF g ec e ef f f ::
+A fruc -- tu fru -- men -- ti et vi -- ni mul -- ti -- pli -- ca -- ti
+fi -- de -- les in pa -- ce Chris -- ti re -- qui -- es -- cunt.
+
+h h h h ef f ::
+<eu>E u o u a e</eu>
+
+\score
 id: verbum
 office-part: hymnus
 manuscript: CZ-HKm Hr-7, 297v
@@ -16,3 +30,20 @@ fit -- que san -- guis Chris -- ti me -- rum:
 et si sen -- sus de -- fi -- cit:
 ad fir -- man -- dum cor sin -- ce -- rum:
 so -- la fi -- des suf -- fi -- cit.
+
+\score
+id: vincenti
+office-part: antiphona
+manuscript: CZ-HKm Hr-3, 11v
+annotation: Ad Nunc.
+annotation: V a
+c3 fe df/hi h h!ij kj
+i h hi ivHGh g f!gh hvGFE fe df hiHG hg
+eg f!ghhGFE fe d ::
+Vin -- cen -- ti da -- bo
+man -- na abs -- con -- di -- tum
+et no -- men no -- vum
+al -- le -- lu -- ia.
+
+h h i g h f ::
+<eu>E u o u a e</eu>
