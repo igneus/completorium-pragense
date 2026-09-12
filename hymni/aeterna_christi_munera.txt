@@ -1,0 +1,20 @@
+Aeterna\footcite[72v]{bp1502} Christi munera\quickref{can:lancea_aeterna}
+nos satient perenniter.
+eius clavorum vulnera
+inebrient nos iugiter.
+
+Iesu nostra redemptio
+pro tuis armis bellicis.
+te nostra laudet concio
+psalmis hymnis et canticis.
+
+Tu Christe nostrum gaudium
+de lanceato latere.
+da roris mellicidium
+ardenti corde sugere.
+
+Sit Christo iubilatio
+laus et gratiarumactio\edissue{obviously one word, leave as is? revisit also occurrences elsewhere}
+armorum veneratio
+sit nostra defensatio.
+Amen.

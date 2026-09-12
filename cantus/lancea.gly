@@ -1,0 +1,59 @@
+\header
+title: De Lancea Domini
+
+\score
+id: superps
+manuscript: CZ-Pn XV A 10, 207v
+annotation: Ant.
+annotation: VIII G % editorial, the source lacks euouae
+user-notes: lyrics alignment uncertain, some doubled notes ignored as liquescences, but may actually be doubled notes; compare other sources
+c4 g g g h
+gf gh hg fg
+h j ij hvGF
+gh h g g ::
+Al -- le -- lu -- ia
+al -- le -- lu -- ia
+al -- le -- lu -- ia
+al -- le -- lu -- ia.
+
+j j i j h g :: % editorial, the source lacks euouae
+<eu>E u o u a e</eu>
+
+\score
+id: aeterna
+manuscript: CZ-Pn XV A 10, 207v
+annotation: Hymnus
+annotation: VIII
+c3 e e fg g e fg/hg fe e
+e g h i iji g h i
+g i j j i hg fe f/ghf!e e
+e fg g e fg/hg fe e ::
+Ae -- ter -- na Chris -- ti mu -- ne -- ra
+nos sa -- ti -- ent pe -- ren -- ni -- ter.
+e -- ius cla -- vo -- rum vul -- ne -- ra
+in -- e -- bri -- ent nos iu -- gi -- ter.
+
+\score
+id: nunc
+manuscript: CZ-Pn XV A 10, 207v
+annotation: Ad Nunc.
+annotation: VII c
+c3 f h ij i
+Al -- le -- lu -- ia
+f h h e fh h % one h left out because of lyrics alignment
+h i g h e f e d
+e f e d
+in -- ter cla -- vos Chris -- tus
+in cru -- ce so -- po -- ra -- tus est
+al -- le -- lu -- ia.
+d e f f f ef gf ed e d
+fh h h g h ij i h h i h e
+et in sanc -- ta re -- sur -- rec -- ti -- o -- ne
+mun -- dus in su -- is lau -- di -- bus vi -- gi -- la -- vit
+h h f ef
+g f e e ::
+al -- le -- lu -- ia
+al -- le -- lu -- ia.
+
+i i j i h gh ::
+<eu>E u o u a e</eu>
