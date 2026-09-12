@@ -1,0 +1,15 @@
+Laus Trinitati resonet perennis:\edissue{notation}
+sit Unitati Deus \emph{Athanaton:}
+pectoris hymnum Deitati: \emph{\editorial{Hagion}}
+celebret sanctem.\edissue{This makes no sense morphologically, compare other sources}
+
+Angeli summi patriarchae sancti
+apostolorum chorus: beatorum ordines:
+cuncti benedicant \emph{Theon:}
+laude beata.
+
+\emph{Doxa} sit Patri genitaeque Proli:
+et tibi compar utriusque semper
+Spiritus alme: Deus unus omni
+tempore saecli.
+Amen.
