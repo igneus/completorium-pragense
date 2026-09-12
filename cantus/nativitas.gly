@@ -77,6 +77,7 @@ manuscript: CZ-HKm Hr-7, f. 292r
 mode: 3
 annotation: Hymnus
 annotation: III
+user-notes: either pick one version or render this one properly, including the mensural features
 c4
 % Source notation contains a few instances of stemmed notes
 % with halved rhythmical value. For now ignored in the transcription.
@@ -117,6 +118,7 @@ E u o u a e.
 id: magnum_kh
 office-part: antiphona
 manuscript: CZ-Pu XXIII A 2, 15r
+manuscript-additional: CZ-HKm Hr-6, 268v
 annotation: Ad Nunc.
 annotation: V? a?
 user-notes: what is the psalm tone? compare with the one known from Šteyer and Božan
