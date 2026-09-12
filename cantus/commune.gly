@@ -39,6 +39,7 @@ sis prae -- sul ad cu -- sto -- di -- am.
 
 \score
 id: versiculus
+office-part: versiculus
 manuscript: cf. CZ-Pu VI G 3a, 102r
 manuscript-notice: manuscriptum monasterii S. Georgii in castro Pragensi
 user-notes: try to find a versicle tone in diocesan sources
@@ -100,6 +101,7 @@ E u o u a e.
 
 \score
 id: benedicamus
+office-part: benedicamus
 manuscript: CZ-Pst DA III 17, 15r
 user-notes: compare other sources; in the source the hymn is between Matins and Lauds hymns, not at all connected with Compline
 c3 f e f e c ef!ghf e f ::

@@ -3,6 +3,7 @@ title: De Lancea Domini
 
 \score
 id: superps
+office-part: antiphona
 manuscript: CZ-Pn XV A 10, 207v
 annotation: Ant.
 annotation: VIII G % editorial, the source lacks euouae
@@ -21,6 +22,7 @@ j j i j h g :: % editorial, the source lacks euouae
 
 \score
 id: aeterna
+office-part: hymnus
 manuscript: CZ-Pn XV A 10, 207v
 annotation: Hymnus
 annotation: VIII
@@ -35,6 +37,7 @@ in -- e -- bri -- ent nos iu -- gi -- ter.
 
 \score
 id: nunc
+office-part: antiphona
 manuscript: CZ-Pn XV A 10, 207v
 annotation: Ad Nunc.
 annotation: VII c

@@ -66,10 +66,17 @@ end
 
 desc 'run checks'
 task :check do
-  ruby 'scripts/find_scores.rb',
-       '--fail-if-found',
-       '-m', 'headers["manuscript"]&.yield_self {|m| m.split(";").size > 2 }',
-       *Dir['cantus/*.gly']
+  [
+    # at most two sources printed with the score
+    'headers["manuscript"]&.yield_self {|m| m.split(";").size > 2 }',
+    # each score (which has an annotation) has a standard office-part
+    '!headers["annotation"].nil? && headers["office-part"].yield_self {|t| !["antiphona", "responsorium prolixum", "hymnus", "tropus", "versiculus", "benedicamus"].include?(t) }',
+  ].each do |expr|
+    ruby 'scripts/find_scores.rb',
+         '--fail-if-found',
+         '-m', expr,
+         *Dir['cantus/*.gly']
+  end
 
   sh 'grep',
      '--recursive',
