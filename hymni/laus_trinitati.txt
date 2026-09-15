@@ -4,8 +4,8 @@ pectoris hymnum Deitati:\footnote{\cite[74v]{bp1502}: Deitate} \emph{\editorial{
 celebret sanctem.\edissue{bp1502 the same; This makes no sense morphologically, compare other sources and hymn commentaries}
 
 Angeli summi patriarchae sancti
-apostolorum chorus: beatorum ordines:
-cuncti benedicant \emph{Theon:}
+apostolorum chorus: beatorum
+ordines: cuncti benedicant \emph{Theon:}
 laude beata.
 
 \emph{Doxa} sit Patri genitaeque Proli:
