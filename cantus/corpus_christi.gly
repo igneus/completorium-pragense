@@ -4,8 +4,23 @@ office-part: antiphona
 manuscript: CZ-HKm Hr-3, 7v
 annotation: Ant.
 annotation: II D
+user-notes: pick one version
 f3 fvEC ef f fg hvGF e h ij j j i h ij hvGF
 c ef f i ih/ij hvGF g ec e ef f f ::
+A fruc -- tu fru -- men -- ti et vi -- ni mul -- ti -- pli -- ca -- ti
+fi -- de -- les in pa -- ce Chris -- ti re -- qui -- es -- cunt.
+
+h h h h ef f ::
+<eu>E u o u a e</eu>
+
+\score
+id: afructu_khg
+office-part: antiphona
+manuscript: CZ-Pu XXIII A 2, 143v
+annotation: Ant.
+annotation: II D
+f3 fvEC ef f fg hvGF e h ih ij j i jh h!ij hvGF
+c ef f h hi hvGF g ec e ef f f ::
 A fruc -- tu fru -- men -- ti et vi -- ni mul -- ti -- pli -- ca -- ti
 fi -- de -- les in pa -- ce Chris -- ti re -- qui -- es -- cunt.
 
@@ -37,9 +52,27 @@ office-part: antiphona
 manuscript: CZ-HKm Hr-3, 11v
 annotation: Ad Nunc.
 annotation: V a
+user-notes: pick one version
 c3 fe df/hi h h!ij kj
 i h hi ivHGh g f!gh hvGFE fe df hiHG hg
 eg f!ghhGFE fe d ::
+Vin -- cen -- ti da -- bo
+man -- na abs -- con -- di -- tum
+et no -- men no -- vum
+al -- le -- lu -- ia.
+
+h h i g h f ::
+<eu>E u o u a e</eu>
+
+\score
+id: vincenti_khg
+office-part: antiphona
+manuscript: CZ-Pu XXIII A 2, 148r
+annotation: Ad Nunc.
+annotation: V a
+c3 fe df/hi h hi!jk jvIH
+iji h hi gxivHGh g fg hvGFE fe df gxhiHG hg
+eg f!ghGFE fe d ::
 Vin -- cen -- ti da -- bo
 man -- na abs -- con -- di -- tum
 et no -- men no -- vum
