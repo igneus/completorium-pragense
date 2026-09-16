@@ -156,7 +156,7 @@ id: resonet
 office-part: tropus
 manuscript: CZ-Pn XV A 10, 48r
 annotation: Trop.
-annotation: V
+% annotation: V
 user-notes: try to find an edition, check spelling
 c3 h f d f h i h
 h f d f h i h
@@ -216,7 +216,7 @@ id: verbumcaro_all
 office-part: antiphona
 manuscript: CZ-Pn XV A 10, 48r
 annotation: Ant.
-annotation: [VI]
+% annotation: [VI]
 c3 h h h g i i j
 % The source changes the reciting tone from c to a,
 % which makes no sense. Editorially corrected to the well known
