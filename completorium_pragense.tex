@@ -105,6 +105,11 @@
 
 \newcommand{\headingCantus}{\vspace{3mm}}
 
+\newcommand{\calitem}[3]{%
+  \noindent\makebox[16pt][l]{#1} #2 \dotfill \pageref{#3}
+
+}
+
 
 
 
@@ -118,6 +123,8 @@
 \cleardoublepage
 
 \pagestyle{headings}
+
+\input{partes/calendarium}
 
 \input{partes/adventus}
 \input{partes/conceptio}
