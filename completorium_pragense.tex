@@ -35,15 +35,24 @@
   page    = {f.}, % this is somewhat dirty, but so far all sources we cite are foliated, not paginated
 }
 
+\newcommand{\setDefaultStaffSize}{
+  \grechangestaffsize{13}
+  \grechangestyle{initial}{\fontsize{30}{30}\selectfont}{}
+  \grechangestyle{annotation}{\fontsize{9}{9}\selectfont}{}
+}
+\newcommand{\setSmallerStaffSize}{
+  \grechangestaffsize{11}
+  \grechangestyle{initial}{\fontsize{24}{24}\selectfont}{}
+  \grechangestyle{annotation}{\fontsize{7}{7}\selectfont}{}
+}
+
+\setDefaultStaffSize
 % automatically set content of gabc header 'manuscript' as \grecommentary
 \gresetheadercapture{manuscript}{grecommentary}{string}
 \gresetheadercapture{user-notes}{edissue}{string}
 % use uppercase Roman numerals whenever Gregorio produces mode annotations on its own
 \gresetmodenumbersystem{roman-majuscule}
 
-\grechangestaffsize{13}
-\grechangestyle{initial}{\fontsize{30}{30}\selectfont}{}
-\grechangestyle{annotation}{\fontsize{9}{9}\selectfont}{}
 
 
 
