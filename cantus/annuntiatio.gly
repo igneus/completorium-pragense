@@ -140,6 +140,8 @@ pec -- ca -- to -- rum mi -- se -- re -- re.
 j j k i j hg ::
 <eu>E u o u a e.</eu>
 
+% TODO: CZ-HKm Hr-1, 45v
+
 \score
 id: haec
 office-part: antiphona
@@ -175,6 +177,10 @@ Glo -- ri -- a ti -- bi Do -- mi -- ne.
 
 h g h j g e ::
 <eu>E u o u a e.</eu>
+
+% TODO: Hr-1 185v
+
+% TODO: Hr-3 195v
 
 \score
 id: haec_khg
