@@ -36,11 +36,27 @@ e -- ius cla -- vo -- rum vul -- ne -- ra
 in -- e -- bri -- ent nos iu -- gi -- ter.
 
 \score
+id: aeterna_xiia9
+office-part: hymnus
+manuscript: CZ-Pu XII A 9, 207v
+annotation: Hymnus
+annotation: I
+c4 d d d/efe!f d dc f gh h
+hg gj jk ji h h gh h
+h h h/ij g ede f ed de
+c ed g gh fe d cd d ::
+Ae -- ter -- na Chris -- ti mu -- ne -- ra
+nos sa -- ti -- ent pe -- ren -- ni -- ter.
+e -- ius cla -- vo -- rum vul -- ne -- ra
+in -- e -- bri -- ent nos iu -- gi -- ter.
+
+\score
 id: nunc
 office-part: antiphona
 manuscript: CZ-Pn XV A 10, 207v
 annotation: Ad Nunc.
 annotation: VII c
+user-notes: should we include the XII.A.9 alternative tone even though we have an authentic cathedral one? compare other sources
 c3 f h ij i
 Al -- le -- lu -- ia
 f h h e fh h % one h left out because of lyrics alignment
@@ -59,4 +75,30 @@ al -- le -- lu -- ia
 al -- le -- lu -- ia.
 
 i i j i h gh ::
+<eu>E u o u a e</eu>
+
+\score
+id: nunc_xiia9
+office-part: antiphona
+manuscript: CZ-Pu XII A 9, 90v
+annotation: Ad Nunc.
+annotation: V a
+c3 h h iki hi % iki sic
+Al -- le -- lu -- ia
+gx h h h g g f
+e f e f e f e d
+f fe f d
+in -- ter cla -- vos Chris -- tus
+in cru -- ce so -- po -- ra -- tus est
+al -- le -- lu -- ia.
+f f f f f f f f f f
+f f f f f f f e d ef f
+et in sanc -- ta re -- sur -- rec -- ti -- o -- ne
+mun -- dus in su -- is lau -- di -- bus vi -- gi -- la -- vit
+h h hih f
+e/g/f ef d d :: % exact lyrics alignment uncertain
+al -- le -- lu -- ia
+al -- le -- lu -- ia.
+
+h h i g h f ::
 <eu>E u o u a e</eu>
