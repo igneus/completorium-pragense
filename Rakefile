@@ -64,6 +64,11 @@ task :clean do
   end
 end
 
+desc 'list sources'
+task :sources do
+  ruby 'scripts/sources.rb', *Dir['cantus/*.gly']
+end
+
 desc 'run checks'
 task :check do
   [
