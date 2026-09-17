@@ -5,6 +5,7 @@ title: Adventus Domini
 id: conditoralme
 office-part: hymnus
 manuscript: CZ-Pst DA III 17, f. 17r
+cantus-id: 008284
 mode: 4
 annotation: Hymnus
 annotation: IV
@@ -22,12 +23,14 @@ id: quiventurus
 office-part: antiphona
 manuscript: CZ-Pu XIV A 19, 1v; CZ-Pn XV A 10, 8r
 manuscript-additional: CZ-HKm Hr-4, 2r
+cantus-id: 004502
 annotation: Ad Nunc.
 annotation: IV E
 f3
 g h i hg hi h g f j i h ih h
 g hi i hg f e f gh ivHG f g g z0::
-f2 h g h j g e ::
 Qui ven -- tu -- rus est ve -- ni -- et et non tar -- da -- bit.
 Iam non e -- rit ti -- mor in fi -- ni -- bus nos -- tris.
-E u o u a e
+
+f2 h g h j g e ::
+<eu>E u o u a e</eu>

@@ -6,6 +6,7 @@ title: In die sancto Nativitatis Christi
 id: verbumcaro
 office-part: antiphona
 manuscript: CZ-Pn XV A 10, 47v
+cantus-id: 005362
 annotation: Ant.
 annotation: VI F
 c3
@@ -24,6 +25,7 @@ E u o u a e.
 id: verbumcaro_kh
 office-part: antiphona
 manuscript: CZ-Pu XXIII A 2, 15r
+cantus-id: 005362
 annotation: Ant.
 annotation: V a
 cb3
@@ -51,6 +53,7 @@ U -- ni -- ge -- ni -- ti a Pa -- tre.
 id: cordenatus
 office-part: hymnus
 manuscript: CZ-Pst DA III 17, f. 18v
+cantus-id: 008289
 mode: 3
 annotation: Hymnus
 annotation: III
@@ -74,6 +77,7 @@ sae -- cu -- lo -- rum sae -- cu -- lis.
 id: cordenatus_specialnik
 office-part: hymnus
 manuscript: CZ-HKm Hr-7, f. 292r
+cantus-id: 008289
 mode: 3
 annotation: Hymnus
 annotation: III
@@ -100,6 +104,7 @@ sae -- cu -- lo -- rum sae -- cu -- lis.
 id: magnum
 office-part: antiphona
 manuscript: CZ-Pn XV A 10, 47v
+cantus-id: 202990
 annotation: Ad Nunc.
 annotation: V a
 c3
@@ -119,6 +124,7 @@ id: magnum_kh
 office-part: antiphona
 manuscript: CZ-Pu XXIII A 2, 15r
 manuscript-additional: CZ-HKm Hr-6, 268v
+cantus-id: 202990
 annotation: Ad Nunc.
 annotation: V? a?
 user-notes: what is the psalm tone? compare with the one known from Šteyer and Božan
@@ -139,6 +145,7 @@ E u o u a e.
 id: magnum_hr4
 office-part: antiphona
 manuscript: CZ-HKm Hr-4, 35r
+cantus-id: 202990
 annotation: Ad Nunc.
 annotation: per. % bottom right corner of the page: "Nunc dimittis tonus peregrinus"
 c3
@@ -237,6 +244,7 @@ Si -- cut e -- rat
 id: verbumcaro_all
 office-part: antiphona
 manuscript: CZ-Pn XV A 10, 48r
+cantus-id: 005361
 annotation: Ant.
 % annotation: [VI]
 c3 h h h g i i j

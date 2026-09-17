@@ -8,6 +8,7 @@ annotation: Ad Nunc
 annotation: I g
 manuscript: CZ-Pu XIV C 20, 24v; CZ-Pu XII C 3, 29v
 manuscript-notice: manuscriptum cursus monastici
+cantus-id: 004689
 
 c4 dc cf e ddf dc f gh hvGF gh ixhih
 Sal -- va -- tor mun -- di sal -- va nos o -- mnes
@@ -50,7 +51,8 @@ office-part: antiphona
 annotation: Ad Nunc
 annotation: I g
 manuscript: CZ-HKm Hr-1, 103v
-manuscript-notice: manuscriptum non secundum rubricam pragensem, antiphona ad Magnificat i II vesperis
+manuscript-notice: manuscriptum non secundum rubricam pragensem, antiphona ad Magnificat in II vesperis
+cantus-id: 004689
 
 f3 f eh hg fg fe h ij jvIH h!iji/jk j
 Sal -- va -- tor mun -- di sal -- va nos o -- mnes

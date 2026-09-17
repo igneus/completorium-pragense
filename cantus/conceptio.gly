@@ -5,6 +5,7 @@ title: In Conceptione sanctae Mariae Virginis
 id: cumiucunditate
 office-part: antiphona
 manuscript: cf. CZ-Pn XII A 21, 154r
+cantus-id: 002016.2
 annotation: Ant.
 annotation: VII c
 c3 i g i j i i
@@ -27,6 +28,7 @@ i i j i h gh ::
 id: cumiucunditate_vor
 office-part: antiphona
 manuscript: A-VOR Cod. 259/I, 229r
+cantus-id: 002016.2
 annotation: Ant.
 annotation: VII c
 c3 i g i j i i
@@ -49,6 +51,7 @@ i i j i h h ::
 id: quandoconcepta
 office-part: antiphona
 manuscript: cf. CZ-Pn XII A 21, 154v
+cantus-id: 004440 % this is ID of Quando nata, CantusIndex doesn't have a variant ID for the Conceptio variant yet
 annotation: Ad Nunc.
 annotation: III g
 user-notes: try to find a source with the text variant specific to the feast

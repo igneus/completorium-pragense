@@ -6,6 +6,7 @@ id: cumiucunditate
 office-part: antiphona
 manuscript: CZ-Pn XII A 21, 154r; CZ-Pu XXIII A 2, 219r
 manuscript-additional: CZ-HKm Hr-3, 115r; CZ-Pu IV D 9, 142r % (incipit ...iucunditate)
+cantus-id: 002016
 annotation: Ant.
 annotation: VII c
 c3 i g i j i i
@@ -28,6 +29,7 @@ i i j i h gh ::
 id: cumiucunditate_hr1
 office-part: antiphona
 manuscript: CZ-HKm Hr-1, 59r
+cantus-id: 002016
 annotation: Ant.
 annotation: VII c
 c3 i g i j i i
@@ -49,6 +51,7 @@ id: quandonata
 office-part: antiphona
 manuscript: CZ-Pn XII A 21, 154v; CZ-Pu XXIII A 2, 219v
 manuscript-additional: CZ-HKm Hr-3, 115r; CZ-Pu IV D 9, 142r % (incipit ...est)
+cantus-id: 004440
 annotation: Ad Nunc.
 annotation: III g
 c4 f ed

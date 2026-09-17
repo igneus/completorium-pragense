@@ -5,6 +5,7 @@ title: In Annuntiatione sanctae Mariae Virginis
 id: cumiucunditate
 office-part: antiphona
 manuscript: cf. CZ-Pn XII A 21, 154r
+cantus-id: 002016.6
 annotation: Ant.
 annotation: VII c
 user-notes: try to find a source with the text variant specific to the feast
@@ -28,6 +29,8 @@ i i j i h gh ::
 id: quomodo
 office-part: responsorium prolixum
 manuscript: CZ-Pn XII A 22, 272v
+cantus-id: 007505 % response
+cantus-id: 007505a % verse
 annotation: Resp.
 annotation: II
 user-notes: find a matching Gloria Patri tone
@@ -80,6 +83,7 @@ Fi -- li -- us De -- i.
 id: alma
 office-part: antiphona
 manuscript: CZ-Pn XII A 21, 104v
+cantus-id: 001356
 annotation: Ad Nunc.
 annotation: V a
 c3 df!hi!jkJIHG/hih fef h h d e@fef gvFEDe d
@@ -112,6 +116,7 @@ j j k i j hg ::
 id: alma_khg
 office-part: antiphona
 manuscript: CZ-Pu XXIII A 2, 306r; CZ-HKm Hr-4, 196v % hr4 jen po "caeli por"
+cantus-id: 001356
 annotation: Ad Nunc.
 annotation: V a
 cb3 df!hhi!jkJIHG/hih fef h h d e@fef gvFEDe d
@@ -146,6 +151,7 @@ j j k i j hg ::
 id: haec
 office-part: antiphona
 manuscript: CZ-Pn XII A 22, 274v
+cantus-id: 002997
 annotation: Ad Nunc.
 annotation: IV E
 c4 efED/gvgvFE de efe e e fe d f!gh/hvGFE de e

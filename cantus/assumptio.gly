@@ -5,6 +5,7 @@ title: Assumptio Mariae
 id: cumiucunditate
 office-part: antiphona
 manuscript: cf. CZ-Pn XII A 21, 154r
+cantus-id: 002016.4
 annotation: Ant.
 annotation: VII c
 user-notes: try to find a source with the text variant specific to the feast
@@ -28,6 +29,7 @@ i i j i h gh ::
 id: fitporta
 office-part: hymnus
 manuscript: CZ-HKm Hr-7, 293r; CZ-Pu I A 58, 70v
+cantus-id: 008305
 annotation: Hymnus
 annotation: VIII
 c4 g d g g ghg e f g

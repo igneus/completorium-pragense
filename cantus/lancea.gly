@@ -24,6 +24,7 @@ j j i j h g :: % editorial, the source lacks euouae
 id: aeterna
 office-part: hymnus
 manuscript: CZ-Pn XV A 10, 207v
+cantus-id: 830012
 annotation: Hymnus
 annotation: VIII
 c3 e e fg g e fg/hg fe e
@@ -39,6 +40,7 @@ in -- e -- bri -- ent nos iu -- gi -- ter.
 id: aeterna_xiia9
 office-part: hymnus
 manuscript: CZ-Pu XII A 9, 207v
+cantus-id: 830012
 annotation: Hymnus
 annotation: I
 c4 d d d/efe!f d dc f gh h
@@ -54,6 +56,7 @@ in -- e -- bri -- ent nos iu -- gi -- ter.
 id: nunc
 office-part: antiphona
 manuscript: CZ-Pn XV A 10, 207v
+cantus-id: 200208
 annotation: Ad Nunc.
 annotation: VII c
 user-notes: should we include the XII.A.9 alternative tone even though we have an authentic cathedral one? compare other sources
@@ -81,6 +84,7 @@ i i j i h gh ::
 id: nunc_xiia9
 office-part: antiphona
 manuscript: CZ-Pu XII A 9, 90v
+cantus-id: 200208
 annotation: Ad Nunc.
 annotation: V a
 c3 h h iki hi % iki sic

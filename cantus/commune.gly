@@ -5,6 +5,7 @@ title: Post Octavam Epiphaniae
 id: telucis
 office-part: hymnus
 manuscript: CZ-Pst DA III 17, 16v
+cantus-id: 008399
 mode: 2
 annotation: Hymnus
 annotation: II
@@ -21,6 +22,7 @@ sis prae -- sul ad cu -- sto -- di -- am.
 id: telucis_karlstejn
 office-part: hymnus
 manuscript: CZ-Pn XVI A 18, 55v
+cantus-id: 008399
 mode: 8?
 annotation: Hymnus
 annotation: VIII
@@ -42,6 +44,7 @@ id: versiculus
 office-part: versiculus
 manuscript: cf. CZ-Pu VI G 3a, 102r
 manuscript-notice: manuscriptum monasterii S. Georgii in castro Pragensi
+cantus-id: 008001
 user-notes: try to find a versicle tone in diocesan sources
 annotation: Vers.
 f3 h h h h h h h
@@ -59,6 +62,7 @@ pro -- te -- ge nos.
 id: salva1
 office-part: antiphona
 manuscript: CZ-Pu XIV A 19, 52r; CZ-Pn XV A 10, 81r
+cantus-id: 204361
 annotation: Ad Nunc.
 annotation: III g
 c3
@@ -79,6 +83,7 @@ E u o u a e.
 id: salva2
 office-part: antiphona
 manuscript: CZ-Pu XIV A 19, 52r; cf. CZ-Pn XV A 10, 81r
+cantus-id: 204361
 annotation: Ad Nunc.
 annotation: V a
 user-notes: read XIV.A.19 once more with special attention to bemol, look around in the manuscript to see how it handles bemol (XV.A.10 has none)

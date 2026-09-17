@@ -6,6 +6,7 @@ id: glorificamus
 office-part: antiphona
 manuscript: CZ-Pu XIV B 13, 44r
 user-notes: This source is monastic. Find a better source. The only notated Czech diocesan source I'm aware of so far is P VI/1, 211v - check it.
+cantus-id: 002952
 annotation: Ad Nunc.
 annotation: IV E
 c4
@@ -23,6 +24,7 @@ h g h j g ef :: % strange
 id: glorificamus2
 office-part: antiphona
 manuscript: SK-Bra IIb EC Lad.4, 2r % http://cantus.sk/image/13555
+cantus-id: 002952
 annotation: Ad Nunc.
 annotation: IV E
 c4

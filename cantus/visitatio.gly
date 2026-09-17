@@ -5,6 +5,7 @@ title: In festo Visitationis sanctae Mariae Virginis
 id: cumiucunditate
 office-part: antiphona
 manuscript: cf. CZ-Pn XII A 21, 154r % in the known Visitatio sources always just referenced as known chant by incipit
+cantus-id: 002016.3
 annotation: Ant.
 annotation: VII c
 user-notes: try to find a source with the text variant specific to the feast
@@ -28,6 +29,7 @@ i i j i h gh ::
 id: ochristimater
 office-part: hymnus
 manuscript: CZ-Nlobkowicz R VI Fb 16, 3v; CZ-Pu XII A 9, 61r
+cantus-id: 830421
 annotation: Hymnus
 annotation: VIII
 user-notes: obviously the Fit porta tune - compare other sources, probably pick one variant for all relevant hymns
@@ -44,6 +46,7 @@ Ma -- ri -- a ve -- nus -- tis -- si -- ma.
 id: gaude
 office-part: antiphona
 manuscript: CZ-Nlobkowicz R VI Fb 16, 4r; cf. CZ-Pu XII A 9, 61r
+cantus-id: 201903
 annotation: Ad Nunc.
 annotation: VIII G
 c4 ghGE/fvED/fef g hjIHG fg g gvFED/efED c f!ghGF/gh g
