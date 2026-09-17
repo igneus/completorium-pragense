@@ -66,7 +66,7 @@ end
 
 desc 'list sources'
 task :sources do
-  ruby 'scripts/sources.rb', *Dir['cantus/*.gly']
+  ruby 'scripts/sources.rb', *Dir['cantus/*.gly'].sort
 end
 
 desc 'run checks'
