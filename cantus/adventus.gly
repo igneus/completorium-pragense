@@ -33,4 +33,4 @@ Qui ven -- tu -- rus est ve -- ni -- et et non tar -- da -- bit.
 Iam non e -- rit ti -- mor in fi -- ni -- bus nos -- tris.
 
 f2 h g h j g e ::
-<eu>E u o u a e</eu>
+E u o u a e % no <eu>, sequence ( divisio + clef change + <eu> ) causes error in the latex build
