@@ -4,7 +4,7 @@ title: In Dedicatione ecclesiae
 \score
 id: hoc_in_templo
 office-part: hymnus
-manuscript: CZ-Pst DA III 17, 303r
+manuscript: CZ-Pst DA III 17, 303r; CZ-Pu I A 58, 61v
 cantus-id: 008405
 % the Compline hymn consists of two final strophes of Urbs beata Ierusalem
 annotation: Hymnus
