@@ -40,6 +40,44 @@ ut so -- li -- ta cle -- men -- ti -- a
 sis prae -- sul ad cu -- sto -- di -- am.
 
 \score
+id: salvator
+office-part: hymnus
+manuscript: CZ-Pst DA III 17, 16r; CZ-Pn XVI A 18, 62v % one manuscript has a rubric that it's sung as Immense caeli, the other has the tune
+cantus-id: 830303
+mode: 1
+annotation: Hymnus
+annotation: I
+user-notes: compare other sources, pick one version
+c4 f f g h g g f e
+gh f f c d f f f
+f f g h g g f e
+gh f f c d f e d ::
+Sal -- va -- tor mun -- di Do -- mi -- ne
+qui nos sal -- vas -- ti ho -- di -- e
+in hac noc -- te nos pro -- te -- ge
+et sal -- va om -- ni tem -- po -- re.
+
+\score
+id: salvator2
+office-part: hymnus
+manuscript: CZ-Pst DA III 17, 16r.13r
+manuscript-notice: the notation is incomplete and overall really poor, I only managed to align it to lyrics once I had another similar variant of the tune at hand
+cantus-id: 830303
+mode: 1
+annotation: Hymnus
+annotation: I
+c4 d f g h g g f e
+gh e f c d f f f
+d f g h g g f e
+% last line missing in the source, editorially supplied
+% per analogiam with the other known version
+gh e f c d f e d ::
+Sal -- va -- tor mun -- di Do -- mi -- ne
+qui nos sal -- vas -- ti ho -- di -- e
+in hac noc -- te nos pro -- te -- ge
+et sal -- va om -- ni tem -- po -- re.
+
+\score
 id: versiculus
 office-part: versiculus
 manuscript: cf. CZ-Pu VI G 3a, 102r

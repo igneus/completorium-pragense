@@ -1,4 +1,4 @@
-Salvator mundi Domine:\edissue{notation}
+Salvator mundi Domine:\quickref{can:commune_salvator}
 qui nos salvasti hodie:
 in hac nocte nos protege:
 et salva omni tempore.
