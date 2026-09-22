@@ -60,10 +60,13 @@ annotation: III
 c4 % editorial, source has no clef
 j j i g h h g e
 g g e c g f g h
+z
 j j i g h h h g e
 g g e c g f h
+z
 e f g e f d cf f
 f f e d e f g
+z
 h h f e d f e ::
 Cor -- de na -- tus ex Pa -- ren -- tis
 an -- te mun -- di ex -- or -- di -- um
@@ -87,10 +90,13 @@ c4
 % with halved rhythmical value. For now ignored in the transcription.
 j j i g h h f e
 g g e c g f g h
+z
 j j i g h h h f e
 g g e c g fg h
+z
 h h e f d c df f
 f f e d e f g
+z
 h h f e d f e ::
 Cor -- de na -- tus ex Pa -- ren -- tis
 an -- te mun -- di ex -- or -- di -- um
