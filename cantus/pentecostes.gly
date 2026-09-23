@@ -1,0 +1,64 @@
+\header
+title: Pentecostes
+
+\score
+id: veni
+office-part: antiphona
+manuscript: CZ-Pn XII A 22, 176v
+cantus-id: 005327
+annotation: Ant.
+annotation: VIII G
+c4 g e f d fhg fg g
+g g g h g h j g h gf f
+Ve -- ni Sanc -- te Spi -- ri -- tus
+re -- ple tu -- o -- rum cor -- da fi -- de -- li -- um
+f g h j ji hg hj hg gh h fe fgf g g
+f g h j k ji h j h g h g f
+et tu -- i a -- mo -- ris in e -- is ig -- nem ac -- cen -- de
+qui per di -- ver -- si -- ta -- tem lin -- gua -- rum cunc -- ta -- rum
+f g h j k ji h j hg gh h fe fgf g
+g gh hg fvED dh h g g ::
+gen -- tes in u -- ni -- ta -- te fi -- de -- i con -- gre -- ga -- sti
+al -- le -- lu -- ia al -- le -- lu -- ia.
+
+j j i j h g ::
+<eu>E u o u a e</eu>
+
+\score
+id: allspiritusparaclitus
+office-part: antiphona
+manuscript: CZ-Pn XII A 22, 177r
+cantus-id: 001354
+annotation: Ant.
+annotation: V a
+c3 % the source has c4, but that's an obvious error (cf. also the custos at the end of the first line, which only makes sense with clef c3)
+h h iki hi
+h g f e f e d f fe f d
+f f f f e d e e f
+h h hih f e gvFEf ded d ::
+Al -- le -- lu -- ia
+Spi -- ri -- tus Pa -- ra -- cli -- tus al -- le -- lu -- ia
+il -- le vos do -- ce -- bit o -- mni -- a
+al -- le -- lu -- ia al -- le -- lu -- ia.
+
+h h i g h f ::
+<eu>E u o u a e</eu>
+
+\score
+id: allspiritusdomini
+office-part: antiphona
+manuscript: CZ-Pn XII A 22, 181r
+cantus-id: 200219
+annotation: Ant.
+annotation: V a
+c3 h h iki hi
+h g f f e d f fe f d
+f f f f e d ef f
+h h hih f e gvFEf ded d ::
+Al -- le -- lu -- ia
+Spi -- ri -- tus Do -- mi -- ni al -- le -- lu -- ia
+re -- ple -- vit or -- bem ter -- ra -- rum
+al -- le -- lu -- ia al -- le -- lu -- ia.
+
+h h i g h f ::
+<eu>E u o u a e</eu>
