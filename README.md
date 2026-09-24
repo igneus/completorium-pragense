@@ -36,10 +36,13 @@ of the medieval Divine Office, while not watering down peculiarities
 * Ruby (any version from 2.0 up should work fine)
   * Rake (version shouldn't matter here, either)
   * [gly][gly] - current development version is required
-* LaTeX ecosystem - developed on TeX Live 2025
+* LaTeX ecosystem - *developed on TeX Live 2025*
   * Gregorio
   * LuaLaTeX
-  * some (well established and pretty much standard) LaTeX packages
+  * [lyluatex][lyluatex] package (should be included in recent TeX Live editions)
+  * a few other LaTeX packages - all are pretty standard and included in the TeX Live distribution
+* LilyPond 2.24
+* *Latin Modern* font family (true type / open type fonts, installed and visible to applications)
 
 ## Building
 
@@ -58,3 +61,4 @@ produces in directory `cantus/` a bunch of gabc files.
 but not the LaTeX ones.)
 
 [gly]: https://github.com/igneus/gly
+[lyluatex]: https://github.com/jperon/lyluatex

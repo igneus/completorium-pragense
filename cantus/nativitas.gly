@@ -76,6 +76,8 @@ om -- ni -- um quae sunt fu -- e -- runt
 quae -- que post fu -- tu -- ra sunt
 sae -- cu -- lo -- rum sae -- cu -- lis.
 
+% There is a dedicated LilyPond file of this version,
+% including the mensural features.
 \score
 id: cordenatus_specialnik
 office-part: hymnus
@@ -84,7 +86,6 @@ cantus-id: 008289
 mode: 3
 annotation: Hymnus
 annotation: III
-user-notes: either pick one version or render this one properly, including the mensural features
 c4
 % Source notation contains a few instances of stemmed notes
 % with halved rhythmical value. For now ignored in the transcription.

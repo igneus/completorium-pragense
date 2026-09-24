@@ -4,13 +4,17 @@ main = 'completorium_pragense.tex'
 main_noext = main.sub '.tex', ''
 main_pdf = main.sub '.tex', '.pdf'
 
+def lualatex(*args)
+  sh 'lualatex', '--shell-escape', *args
+end
+
 desc "build the main product (#{main_pdf})"
 task :default => [main_pdf]
 
 file main_pdf => deps + [:gtex, :psalms, :hymns] do |t|
-  sh 'lualatex', main_noext
+  lualatex main_noext
   sh 'biber', main_noext
-  sh 'lualatex', main_noext
+  lualatex main_noext
 end
 
 # TODO get a list of gabc files in advance, build a proper
