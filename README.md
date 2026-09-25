@@ -11,14 +11,22 @@ provides many chant and prayer texts (in other sources usually indicated
 only by incipits) in full, which is of great help for a modern editor.
 Textual variants, alternative rules and additional details
 from other print and manuscript sources are provided in footnotes.
-Wherever possible, chants are provided with notation sourced
-from manuscript sources of the Prague diocesan use, or, if not available,
+Wherever possible, chant notation is provided, sourced
+from musical manuscripts of the Prague diocesan use, or, if not available,
 from manuscripts of other liturgical traditions of the same region
-(e.g. Czech Benedictine houses).
+(mainly Czech Benedictine houses).
 
 Goal of the edition is to make accessible at least a partial experience
 of the medieval Divine Office, while not watering down peculiarities
 (language, organization) of the original medieval breviary.
+Abbreviations are expanded,
+medieval orthography is converted to the classical one,
+but medieval punctuation (potentially relevant for performance of some texts)
+is preserved.
+References to texts found elsewhere in the book are supplemented
+with page numbers.
+Chant notation is transcribed to square notation without providing
+information unavailable in the sources (like rhythmical signs or barlines).
 
 ## How to use
 
