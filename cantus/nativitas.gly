@@ -52,7 +52,7 @@ U -- ni -- ge -- ni -- ti a Pa -- tre.
 \score
 id: cordenatus
 office-part: hymnus
-manuscript: CZ-Pst DA III 17, f. 18v
+manuscript: CZ-Pst DA III 17, 18v
 cantus-id: 008289
 mode: 3
 annotation: Hymnus
@@ -81,7 +81,7 @@ sae -- cu -- lo -- rum sae -- cu -- lis.
 \score
 id: cordenatus_specialnik
 office-part: hymnus
-manuscript: CZ-HKm Hr-7, f. 292r
+manuscript: CZ-HKm Hr-7, 292r
 cantus-id: 008289
 mode: 3
 annotation: Hymnus

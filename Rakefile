@@ -78,6 +78,8 @@ task :check do
   [
     # at most two sources printed with the score
     'headers["manuscript"]&.yield_self {|m| m.split(";").size > 2 }',
+    # manuscript reference format: no "folio" abbreviation
+    'headers["manuscript"]&.include? " f. "',
     # each score (which has an annotation) has a standard office-part
     '!headers["annotation"].nil? && headers["office-part"].yield_self {|t| !["antiphona", "responsorium prolixum", "hymnus", "tropus", "versiculus", "benedicamus"].include?(t) }',
   ].each do |expr|
