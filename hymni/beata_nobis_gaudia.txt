@@ -1,4 +1,4 @@
-Beata nobis gaudia:\edissue{notation}
+Beata nobis gaudia:\quickref{can:pentecostes_beata}
 anni reduxit orbita
 cum Spiritus Paracletus:
 refulsit in discipulos.

@@ -45,6 +45,45 @@ h h i g h f ::
 <eu>E u o u a e</eu>
 
 \score
+id: beata
+office-part: hymnus
+manuscript: CZ-Pu XII E 15c, 47v
+manuscript-notice: manuscriptum monasticum
+cantus-id: 008273
+annotation: Hymnus
+annotation: I
+user-notes: find a diocesan source; there seem to be some irregularities in melody between the strophes, for now not accounted for here - study more thoroughly
+c4 h hji hg h gf g gh h
+h j k k klk j ji hg
+z
+f gh hg g gf ghg fe d
+g g ge g ghg e fe d ::
+Be -- a -- ta no -- bis gau -- di -- a:
+an -- ni re -- du -- xit or -- bi -- ta
+cum Spi -- ri -- tus Pa -- ra -- cli -- tus:
+ef -- ful -- sit in dis -- ci -- pu -- los.
+
+% this melody is similar to the one edited by Mráčková (in the PhD dissertation) and assigned identifier ROHM 33
+\score
+id: beata_ii
+office-part: hymnus
+manuscript: CZ-Pu XII E 15c, 48v
+manuscript-notice: manuscriptum monasticum
+cantus-id: 008273
+annotation: Hymnus
+annotation: VIII
+user-notes: in the source the first strophe has a very atypical melody, also minor irregularities between strophes are for now not reflected here, the melody is an attempt of a regularized version of the strophes from the second one on
+c3 d e fh hg fe f de e
+h hg fh hg fe f de e
+z
+h h ij j ih i hg fe
+e e c d e fe de e ::
+Be -- a -- ta no -- bis gau -- di -- a:
+an -- ni re -- du -- xit or -- bi -- ta
+cum Spi -- ri -- tus Pa -- ra -- cli-- tus:
+ef -- ful -- lsit in dis -- ci -- pu -- los.
+
+\score
 id: allspiritusdomini
 office-part: antiphona
 manuscript: CZ-Pn XII A 22, 181r
