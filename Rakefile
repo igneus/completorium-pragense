@@ -32,10 +32,8 @@ task :gabc => Dir['cantus/*.gly'] do |t|
 end
 
 task :gtex => [:gabc] do
-  Dir['cantus/*.gabc'].each do |f|
-    Dir.chdir(File.dirname(f)) do
-      sh 'gregorio', File.basename(f)
-    end
+  Dir.chdir 'cantus' do
+    sh 'ls *.gabc | xargs -I % --verbose --max-procs=$(nproc) gregorio %'
   end
 end
 
